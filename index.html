@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Datenschutzerklärung – Track Scout</title>
+<style>
+  :root { color-scheme: light dark; --text: #1d1d1f; --muted: #6e6e73; --bg: #ffffff; --accent: #5b44f2; }
+  @media (prefers-color-scheme: dark) { :root { --text: #f5f5f7; --muted: #a1a1a6; --bg: #111113; --accent: #8f7dff; } }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1 { font-size: 30px; line-height: 1.2; margin: 0 0 4px; }
+  h2 { font-size: 20px; margin: 36px 0 8px; }
+  p, li { margin: 0 0 10px; }
+  .muted { color: var(--muted); }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Datenschutzerklärung</h1>
+  <p class="muted">App „Track Scout“ für iPhone und iPad · Stand: 11. November 2026</p>
+
+  <h2>1. Verantwortlicher</h2>
+  <p>Marco Brell<br>
+  Blankenburger Str. 36<br>
+  49565 Bramsche<br>
+  E-Mail: <a href="mailto:marcobrell@icloud.com">marcobrell@icloud.com</a></p>
+
+  <h2>2. Kurz gesagt</h2>
+  <p>Track Scout hat kein eigenes Benutzerkonto und keinen eigenen Server. Deine Bibliothek, dein Set-Verlauf und deine Einstellungen bleiben auf deinem Gerät. Es gibt keine Werbung, kein Tracking und keine Analyse-Tools. Zur Erkennung des laufenden Songs nutzt die App Apples ShazamKit (Abschnitt 4). Für Vorschläge „passend zum Song“ werden Künstler und Titel an Deezer und – nur mit deinem eigenen Schlüssel – an Last.fm gesendet; das kannst du abschalten (Abschnitt 5).</p>
+
+  <h2>3. Daten, die nur auf deinem Gerät gespeichert werden</h2>
+  <ul>
+    <li>die von dir importierte rekordbox-Collection (Titel, Künstler, Genre, BPM, Tonart, Bewertung, Jahr, Dateipfade und Playlists)</li>
+    <li>dein Set-Verlauf (erkannte und gewählte Songs mit Uhrzeit) und die daraus gelernten Übergänge</li>
+    <li>zwischengespeicherte Online-Ergebnisse zu ähnlichen Songs und Künstlern</li>
+    <li>App-Einstellungen</li>
+    <li>ein von dir eingegebener Last.fm-API-Schlüssel – dieser liegt verschlüsselt im Schlüsselbund (Keychain) des Geräts</li>
+  </ul>
+  <p>Diese Daten werden nicht an uns übermittelt. Sie werden gelöscht, wenn du die App löschst. Je nach deinen Geräteeinstellungen können sie Teil deines iCloud- oder Geräte-Backups bei Apple sein.</p>
+
+  <h2>4. Mikrofon und Musikerkennung (ShazamKit)</h2>
+  <p>Mit deiner Erlaubnis nutzt die App das Mikrofon, um den gerade laufenden Song zu erkennen. Dafür erzeugt Apples ShazamKit auf dem Gerät aus dem Mikrofon-Signal eine Audio-Signatur (einen digitalen „Fingerabdruck“) und gleicht sie mit dem Shazam-Musikkatalog von Apple ab. Es wird keine Aufnahme gespeichert oder an uns übermittelt. Im Live-Modus läuft die Erkennung weiter, solange du sie nicht stoppst – auch bei gesperrtem Display; iOS zeigt das mit der Mikrofon-Anzeige an.</p>
+  <p>Für die Erkennung und für Cover-Bilder der erkannten Songs ist Apple verantwortlich; es gilt die Datenschutzrichtlinie von Apple (<a href="https://www.apple.com/de/legal/privacy/">apple.com/de/legal/privacy</a>). Wenn du in den Einstellungen „In Shazam sichern“ einschaltest, legt die App erkannte Songs zusätzlich in deinem Shazam-Verlauf bei Apple ab. Die Mikrofon-Erlaubnis kannst du jederzeit unter <em>Einstellungen → Datenschutz &amp; Sicherheit → Mikrofon</em> widerrufen.</p>
+
+  <h2>5. Online-Vorschläge (Deezer und Last.fm)</h2>
+  <p>Damit die App Songs vorschlagen kann, die zum laufenden Song passen, fragt sie verwandte Künstler und ähnliche Songs bei Online-Diensten ab. Übermittelt werden dabei ausschließlich <strong>Künstler und Titel des laufenden Songs</strong> sowie technisch bedingt die IP-Adresse deines Geräts:</p>
+  <ul>
+    <li><strong>Deezer</strong> (Deezer SA, 24 rue de Calais, 75009 Paris, Frankreich) – für verwandte Künstler; Datenschutz: <a href="https://www.deezer.com/legal/personal-datas">deezer.com/legal/personal-datas</a></li>
+    <li><strong>Last.fm</strong> (Last.fm Ltd., Vereinigtes Königreich) – nur, wenn du einen eigenen Last.fm-API-Schlüssel hinterlegst, für ähnliche Songs und Künstler; Datenschutz: <a href="https://www.last.fm/legal/privacy">last.fm/legal/privacy</a>. Dabei werden Daten in das Vereinigte Königreich übertragen, für das ein Angemessenheitsbeschluss der EU-Kommission besteht.</li>
+  </ul>
+  <p>Deine Bibliothek, dein Set-Verlauf oder andere Angaben werden nicht übermittelt. Die Ergebnisse werden auf dem Gerät zwischengespeichert, damit die App danach auch offline funktioniert. Rechtsgrundlage ist die Bereitstellung der von dir genutzten Funktion (Art. 6 Abs. 1 lit. b DSGVO). Du kannst die Online-Vorschläge jederzeit in den Einstellungen der App abschalten und den Zwischenspeicher dort leeren.</p>
+
+  <h2>6. Testphase über TestFlight</h2>
+  <p>Wenn du die App über Apples TestFlight testest, erhält der Entwickler von Apple die dort üblichen Angaben (z. B. die E-Mail-Adresse, mit der du eingeladen wurdest, Gerätetyp, Absturzberichte und Feedback, das du selbst sendest). Verantwortlich für TestFlight ist Apple; es gilt die Datenschutzrichtlinie von Apple (<a href="https://www.apple.com/de/legal/privacy/">apple.com/de/legal/privacy</a>).</p>
+
+  <h2>7. Deine Rechte</h2>
+  <p>Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie auf Widerruf einer Einwilligung mit Wirkung für die Zukunft. Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren. Schreib bei Fragen einfach an die oben genannte E-Mail-Adresse.</p>
+
+  <h2>8. Änderungen</h2>
+  <p>Ändert sich die App so, dass andere Daten verarbeitet werden, wird diese Erklärung angepasst.</p>
+</main>
+</body>
+</html>
