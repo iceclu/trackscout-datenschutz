@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hilfe – Track Scout</title>
+<style>
+  :root { color-scheme: light dark; --text: #1d1d1f; --muted: #6e6e73; --bg: #ffffff; --accent: #5b44f2; }
+  @media (prefers-color-scheme: dark) { :root { --text: #f5f5f7; --muted: #a1a1a6; --bg: #111113; --accent: #8f7dff; } }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1 { font-size: 30px; line-height: 1.2; margin: 0 0 4px; }
+  h2 { font-size: 20px; margin: 36px 0 8px; }
+  p, li { margin: 0 0 10px; }
+  .muted { color: var(--muted); }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Track Scout – Hilfe</h1>
+  <p class="muted">Für iPhone und iPad</p>
+
+  <p>Track Scout hört am DJ-Pult mit, erkennt den laufenden Song über Shazam und schlägt aus deiner rekordbox-Bibliothek vor, was als Nächstes passt: nach Tempo, Tonart (Camelot), deinen bisherigen Sets und verwandten Künstlern.</p>
+
+  <h2>Kontakt</h2>
+  <p>Fragen, Fehler oder Wünsche? Schreib an <a href="mailto:marcobrell@icloud.com?subject=Track%20Scout">marcobrell@icloud.com</a>. Hilfreich sind iPhone-Modell, iOS-Version und eine kurze Beschreibung, was passiert ist.</p>
+
+  <h2>Wie kommt meine Bibliothek in die App?</h2>
+  <p><strong>Mit rekordbox:</strong> In rekordbox <em>Datei › Exportieren › Collection im xml-Format</em> wählen. Die Datei per AirDrop ans iPhone schicken oder in Track Scout unter <em>Bibliothek › XML-Datei auswählen</em> aus der Dateien-App holen. Playlists zählen als Reihenfolge, Listen im Ordner „HISTORY“ als gespielte Sets.</p>
+  <p><strong>Mit Track Scout für Mac:</strong> Die <a href="https://github.com/iceclu/TrackScout/releases/latest">Mac-App</a> legt deine Bibliothek aus rekordbox und Serato automatisch in iCloud Drive ab. Auf dem iPhone einmal <em>Bibliothek › Mit dem Mac verbinden</em> antippen und den Ordner „Track Scout“ wählen. Danach aktualisiert sich die Bibliothek bei jedem Öffnen der App.</p>
+
+  <h2>Die Erkennung findet nichts</h2>
+  <ul>
+    <li>Prüfe unter <em>Einstellungen › Datenschutz &amp; Sicherheit › Mikrofon</em>, ob Track Scout das Mikrofon nutzen darf.</li>
+    <li>Halte das iPhone nicht direkt vor einen Bass-Lautsprecher. Ein Platz mit etwas Abstand zur Box funktioniert besser.</li>
+    <li>Eigene Edits, Mashups und sehr seltene Remixe kennt Shazam oft nicht. Such den Song im Suchen-Tab und wisch ihn nach rechts auf „Läuft jetzt“, dann landet er trotzdem im Set.</li>
+  </ul>
+
+  <h2>Warum fehlt ein Song in den Vorschlägen?</h2>
+  <p>Track Scout schlägt nur Songs aus deiner Bibliothek vor. Die Filter oben rechts im Live-Tab begrenzen Tempo- und Tonartsprünge; lockere sie, wenn dir zu wenig angezeigt wird. Erkannte Songs, die noch nicht in der Bibliothek sind, verknüpft die App nach dem nächsten Import automatisch.</p>
+
+  <h2>Brauche ich Internet?</h2>
+  <p>Für die Shazam-Erkennung ja. Verwandte Künstler holt die App bei Deezer, ähnliche Songs optional bei Last.fm mit deinem eigenen, kostenlosen API-Schlüssel (in den Einstellungen der App). Die Ergebnisse werden zwischengespeichert, sodass die Vorschläge danach auch offline funktionieren. Die Online-Vorschläge lassen sich in den Einstellungen abschalten.</p>
+
+  <h2>Läuft die Erkennung bei gesperrtem Display weiter?</h2>
+  <p>Ja, im Live-Modus hört Track Scout auch bei gesperrtem Display weiter mit. iOS zeigt das mit der Mikrofon-Anzeige an. Zum Beenden in der App auf den Shazam-Knopf tippen.</p>
+
+  <h2>Datenschutz</h2>
+  <p>Track Scout hat kein Benutzerkonto, keine Werbung und kein Tracking. Alles Weitere steht in der <a href="../">Datenschutzerklärung</a>.</p>
+</main>
+</body>
+</html>
