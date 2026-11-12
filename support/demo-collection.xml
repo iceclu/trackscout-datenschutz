@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="7.0.0" Company="AlphaTheta"/>
+  <COLLECTION Entries="345">
+    <TRACK TrackID="1" Name="Lass die Musik an" Artist="Madsen" Genre="Alternative" AverageBpm="155.00" Tonality="Fm" TotalTime="242" Location="file://localhost/Music/Demo/Madsen%20-%20Lass%20die%20Musik%20an.mp3"/>
+    <TRACK TrackID="2" Name="Piano Man" Artist="Billy Joel" Genre="Pop" AverageBpm="176.48" Tonality="C" TotalTime="340" Location="file://localhost/Music/Demo/Billy%20Joel%20-%20Piano%20Man.mp3"/>
+    <TRACK TrackID="3" Name="Chiquitita" Artist="ABBA" Genre="Pop" AverageBpm="169.01" Tonality="A" TotalTime="325" Location="file://localhost/Music/Demo/ABBA%20-%20Chiquitita.mp3"/>
+    <TRACK TrackID="4" Name="Gimme, Gimme, Gimme (A Man After Midnight) (Intro &amp; Outro)" Artist="ABBA" Genre="Disco" AverageBpm="120.00" Tonality="Dm" TotalTime="320" Location="file://localhost/Music/Demo/ABBA%20-%20Gimme,%20Gimme,%20Gimme%20(A%20Man%20After%20Midnight)%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="5" Name="Waterloo (Intro &amp; Outro)" Artist="ABBA" Genre="Pop" AverageBpm="148.00" Tonality="D" TotalTime="187" Location="file://localhost/Music/Demo/ABBA%20-%20Waterloo%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="6" Name="Played-A-Live (The Bongo Song)  (Intro &amp; Outro)" Artist="Safri Duo" Genre="Eurodance" AverageBpm="138.00" Tonality="E" TotalTime="194" Location="file://localhost/Music/Demo/Safri%20Duo%20-%20Played-A-Live%20(The%20Bongo%20Song)%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="7" Name="Daddy Cool (Dario Caminita Revibe)" Artist="Boney M." Genre="Disco" AverageBpm="124.03" Tonality="Fm" TotalTime="275" Location="file://localhost/Music/Demo/Boney%20M.%20-%20Daddy%20Cool%20(Dario%20Caminita%20Revibe).mp3"/>
+    <TRACK TrackID="8" Name="Celebration (Intro &amp; Outro)" Artist="Kool &amp; The Gang" Genre="Disco" AverageBpm="122.00" Tonality="Abm" TotalTime="216" Location="file://localhost/Music/Demo/Kool%20%26%20The%20Gang%20-%20Celebration%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="9" Name="September (Intro &amp; Outro)" Artist="Earth, Wind &amp; Fire" Genre="R&amp;B" AverageBpm="127.66" Tonality="Dbm" TotalTime="245" Location="file://localhost/Music/Demo/Earth,%20Wind%20%26%20Fire%20-%20September%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="10" Name="Sing Hallelujah (Intro &amp; Outro)" Artist="Dr Alban" Genre="Dance" AverageBpm="125.00" Tonality="Fm" TotalTime="266" Location="file://localhost/Music/Demo/Dr%20Alban%20-%20Sing%20Hallelujah%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="11" Name="I Wanna Dance With Somebody (Who Loves Me)  (Intro &amp; Outro)" Artist="Whitney Houston" Genre="Pop" AverageBpm="119.00" Tonality="Ebm" TotalTime="327" Location="file://localhost/Music/Demo/Whitney%20Houston%20-%20I%20Wanna%20Dance%20With%20Somebody%20(Who%20Loves%20Me)%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="12" Name="Girls Just Wanna Have Fun (Dario Caminita Revibe)" Artist="Cyndi Lauper" Genre="Pop" AverageBpm="120.00" Tonality="F#" TotalTime="305" Location="file://localhost/Music/Demo/Cyndi%20Lauper%20-%20Girls%20Just%20Wanna%20Have%20Fun%20(Dario%20Caminita%20Revibe).mp3"/>
+    <TRACK TrackID="13" Name="Conga" Artist="Gloria Estefan" Genre="Latin Musik" AverageBpm="120.12" Tonality="Em" TotalTime="320" Location="file://localhost/Music/Demo/Gloria%20Estefan%20-%20Conga.mp3"/>
+    <TRACK TrackID="14" Name="Conga (Intro &amp; Outro)" Artist="Miami Sound Machine" Genre="Latin" AverageBpm="123.14" Tonality="Em" TotalTime="275" Location="file://localhost/Music/Demo/Miami%20Sound%20Machine%20-%20Conga%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="15" Name="1000 Träume weit (Torneró) (DJ MiCHA beats ReDrum)" Artist="Anna-Maria Zimmermann" Genre="Pop" AverageBpm="120.00" Tonality="B" TotalTime="244" Location="file://localhost/Music/Demo/Anna-Maria%20Zimmermann%20-%201000%20Tr%C3%A4ume%20weit%20(Torner%C3%B3)%20(DJ%20MiCHA%20beats%20ReDrum).mp3"/>
+    <TRACK TrackID="16" Name="Er Gehört Zu Mir (Extended 70 Redrum)" Artist="Marianne Rosenberg" Genre="Pop" AverageBpm="131.21" Tonality="Ebm" TotalTime="238" Location="file://localhost/Music/Demo/Marianne%20Rosenberg%20-%20Er%20Geh%C3%B6rt%20Zu%20Mir%20(Extended%2070%20Redrum).mp3"/>
+    <TRACK TrackID="17" Name="Mambo" Artist="Herbert Grönemeyer" Genre="Pop" AverageBpm="130.18" Tonality="D" TotalTime="165" Location="file://localhost/Music/Demo/Herbert%20Gr%C3%B6nemeyer%20-%20Mambo.mp3"/>
+    <TRACK TrackID="18" Name="Jessica" Artist="Wolfgang Petry" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="123.96" Tonality="G" TotalTime="199" Location="file://localhost/Music/Demo/Wolfgang%20Petry%20-%20Jessica.mp3"/>
+    <TRACK TrackID="19" Name="Sexy" Artist="Marius Müller-Westernhagen" Genre="Pop" AverageBpm="120.15" Tonality="Dm" TotalTime="331" Location="file://localhost/Music/Demo/Marius%20M%C3%BCller-Westernhagen%20-%20Sexy.mp3"/>
+    <TRACK TrackID="20" Name="Westerland (Extended 80s Redrum)" Artist="Die Ärzte" Genre="Rock" AverageBpm="94.00" Tonality="D" TotalTime="263" Location="file://localhost/Music/Demo/Die%20%C3%84rzte%20-%20Westerland%20(Extended%2080s%20Redrum).mp3"/>
+    <TRACK TrackID="21" Name="Country Roads (Intro &amp; Outro)" Artist="Hermes House Band" Genre="Pop" AverageBpm="100.78" Tonality="G" TotalTime="225" Location="file://localhost/Music/Demo/Hermes%20House%20Band%20-%20Country%20Roads%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="22" Name="Walking On Sunshine (Intro &amp; Outro)" Artist="Katrina &amp; the Waves" Genre="Pop" AverageBpm="110.09" Tonality="Bb" TotalTime="286" Location="file://localhost/Music/Demo/Katrina%20%26%20the%20Waves%20-%20Walking%20On%20Sunshine%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="23" Name="I'm So Excited (Intro &amp; Outro)" Artist="Pointer Sisters" Genre="Hip-Hop" AverageBpm="92.31" Tonality="Gm" TotalTime="239" Location="file://localhost/Music/Demo/Pointer%20Sisters%20-%20I'm%20So%20Excited%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="24" Name="Take on Me (SickMix intro)" Artist="A-ha" Genre="Pop" AverageBpm="168.99" Tonality="E" TotalTime="230" Location="file://localhost/Music/Demo/A-ha%20-%20Take%20on%20Me%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="25" Name="Music" Artist="John Miles" Genre="Rock" AverageBpm="87.59" Tonality="Em" TotalTime="352" Location="file://localhost/Music/Demo/John%20Miles%20-%20Music.mp3"/>
+    <TRACK TrackID="26" Name="Let's Twist Again (Intro &amp; Outro)" Artist="Chubby Checker" Genre="Rock" AverageBpm="166.67" Tonality="Eb" TotalTime="162" Location="file://localhost/Music/Demo/Chubby%20Checker%20-%20Let's%20Twist%20Again%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="27" Name="Jailhouse Rock" Artist="Elvis Presley" Genre="Rock" AverageBpm="167.75" Tonality="Ebm" TotalTime="146" Location="file://localhost/Music/Demo/Elvis%20Presley%20-%20Jailhouse%20Rock.mp3"/>
+    <TRACK TrackID="28" Name="Jailhouse Rock (DeeJayOvi ReDrum)" Artist="Elvis Presley" Genre="Rock" AverageBpm="168.00" Tonality="Ebm" TotalTime="194" Location="file://localhost/Music/Demo/Elvis%20Presley%20-%20Jailhouse%20Rock%20(DeeJayOvi%20ReDrum).mp3"/>
+    <TRACK TrackID="29" Name="Mambo No. 5 (A Little Bit Of...) (Intro &amp; Outro)" Artist="Lou Bega" Genre="Latin" AverageBpm="174.00" Tonality="Bbm" TotalTime="236" Location="file://localhost/Music/Demo/Lou%20Bega%20-%20Mambo%20No.%205%20(A%20Little%20Bit%20Of...)%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="30" Name="Footloose (SickMix intro)" Artist="Kenny Loggins" Genre="Rock" AverageBpm="176.46" Tonality="Bbm" TotalTime="233" Location="file://localhost/Music/Demo/Kenny%20Loggins%20-%20Footloose%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="31" Name="Nur Geträumt (Extended 80s Redrum)" Artist="NENA" Genre="Rock" AverageBpm="176.00" Tonality="G" TotalTime="285" Location="file://localhost/Music/Demo/NENA%20-%20Nur%20Getr%C3%A4umt%20(Extended%2080s%20Redrum).mp3"/>
+    <TRACK TrackID="32" Name="Männer" Artist="Herbert Grönemeyer" Genre="Pop" AverageBpm="93.82" Tonality="F" TotalTime="238" Location="file://localhost/Music/Demo/Herbert%20Gr%C3%B6nemeyer%20-%20M%C3%A4nner.mp3"/>
+    <TRACK TrackID="33" Name="Blaue Augen" Artist="Ideal" Genre="NDW" AverageBpm="93.10" Tonality="Ebm" TotalTime="209" Location="file://localhost/Music/Demo/Ideal%20-%20Blaue%20Augen.mp3"/>
+    <TRACK TrackID="34" Name="Skandal im Sperrbezirk (Extended Redrum)" Artist="Spider Murphy Gang" Genre="Rock" AverageBpm="93.00" Tonality="Em" TotalTime="254" Location="file://localhost/Music/Demo/Spider%20Murphy%20Gang%20-%20Skandal%20im%20Sperrbezirk%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="35" Name="Sternenhimmel (Extended 80s Redrum)" Artist="Hubert Kah" Genre="NDW" AverageBpm="95.00" Tonality="Abm" TotalTime="236" Location="file://localhost/Music/Demo/Hubert%20Kah%20-%20Sternenhimmel%20(Extended%2080s%20Redrum).mp3"/>
+    <TRACK TrackID="36" Name="Summer Of '69 (Intro &amp; Outro)" Artist="Bryan Adams" Genre="Rock" AverageBpm="139.53" Tonality="D" TotalTime="217" Location="file://localhost/Music/Demo/Bryan%20Adams%20-%20Summer%20Of%20'69%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="37" Name="Don't Stop Believin' (Intro &amp; Outro)" Artist="Journey" Genre="ROCK" AverageBpm="120.00" Tonality="E" TotalTime="266" Location="file://localhost/Music/Demo/Journey%20-%20Don't%20Stop%20Believin'%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="38" Name="Time To Wonder" Artist="Fury In The Slaughterhouse" Genre="Rock" AverageBpm="120.00" Tonality="A" TotalTime="262" Location="file://localhost/Music/Demo/Fury%20In%20The%20Slaughterhouse%20-%20Time%20To%20Wonder.mp3"/>
+    <TRACK TrackID="39" Name="Heart of Glass (Intro &amp; Outro)" Artist="Blondie" Genre="Rock" AverageBpm="114.10" Tonality="E" TotalTime="292" Location="file://localhost/Music/Demo/Blondie%20-%20Heart%20of%20Glass%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="40" Name="Waka Waka (This Time For Africa) (Intro &amp; Outro)" Artist="Shakira, Freshlyground" Genre="Latin" AverageBpm="127.00" Tonality="Bm" TotalTime="221" Location="file://localhost/Music/Demo/Shakira,%20Freshlyground%20-%20Waka%20Waka%20(This%20Time%20For%20Africa)%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="41" Name="Sierra Madre" Artist="Zillertaler Schürzenjäger" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="162.16" Tonality="C" TotalTime="328" Location="file://localhost/Music/Demo/Zillertaler%20Sch%C3%BCrzenj%C3%A4ger%20-%20Sierra%20Madre.mp3"/>
+    <TRACK TrackID="42" Name="tau mich auf (Intro &amp; Outro)" Artist="Zartmann" Genre="Pop" AverageBpm="125.00" Tonality="F#m" TotalTime="163" Location="file://localhost/Music/Demo/Zartmann%20-%20tau%20mich%20auf%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="43" Name="Blurred Lines" Artist="Robin Thicke, T.I., Pharrell Williams" Genre="Pop" AverageBpm="120.00" Tonality="Dm" TotalTime="263" Location="file://localhost/Music/Demo/Robin%20Thicke,%20T.I.,%20Pharrell%20Williams%20-%20Blurred%20Lines.mp3"/>
+    <TRACK TrackID="44" Name="I Know You Want Me (Calle Ocho) (SickMix intro)" Artist="Pitbull" Genre="Pop" AverageBpm="126.01" Tonality="Dm" TotalTime="194" Location="file://localhost/Music/Demo/Pitbull%20-%20I%20Know%20You%20Want%20Me%20(Calle%20Ocho)%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="45" Name="Murder On The Dancefloor (ReDrum)" Artist="Sophie Ellis Bextor" Genre="Pop" AverageBpm="118.16" Tonality="E" TotalTime="292" Location="file://localhost/Music/Demo/Sophie%20Ellis%20Bextor%20-%20Murder%20On%20The%20Dancefloor%20(ReDrum).mp3"/>
+    <TRACK TrackID="46" Name="Party Mix 4" Artist="Pur" Genre="Pop" AverageBpm="130.45" Tonality="Dm" TotalTime="566" Location="file://localhost/Music/Demo/Pur%20-%20Party%20Mix%204.mp3"/>
+    <TRACK TrackID="47" Name="Super Trouper (Intro &amp; Outro)" Artist="ABBA" Genre="Pop" AverageBpm="119.00" Tonality="C" TotalTime="280" Location="file://localhost/Music/Demo/ABBA%20-%20Super%20Trouper%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="48" Name="I Will Survive (Intro &amp; Outro)" Artist="Gloria Gaynor" Genre="Disco" AverageBpm="115.96" Tonality="Am" TotalTime="222" Location="file://localhost/Music/Demo/Gloria%20Gaynor%20-%20I%20Will%20Survive%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="49" Name="Bochum" Artist="Herbert Grönemeyer" Genre="Other" AverageBpm="77.92" Tonality="Cm" TotalTime="230" Location="file://localhost/Music/Demo/Herbert%20Gr%C3%B6nemeyer%20-%20Bochum.mp3"/>
+    <TRACK TrackID="50" Name="GIRL LIKE ME (twocolors Extended)" Artist="The Black Eyed Peas" Genre="Dance" AverageBpm="124.00" Tonality="Am" TotalTime="251" Location="file://localhost/Music/Demo/The%20Black%20Eyed%20Peas%20-%20GIRL%20LIKE%20ME%20(twocolors%20Extended).mp3"/>
+    <TRACK TrackID="51" Name="I Am What I Am (Intro &amp; Outro)" Artist="Gloria Gaynor" Genre="Disco" AverageBpm="128.00" Tonality="Fm" TotalTime="371" Location="file://localhost/Music/Demo/Gloria%20Gaynor%20-%20I%20Am%20What%20I%20Am%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="52" Name="You Keep Me Hanging On (Intro &amp; Outro)" Artist="Kim Wilde" Genre="Pop" AverageBpm="124.00" Tonality="Gm" TotalTime="272" Location="file://localhost/Music/Demo/Kim%20Wilde%20-%20You%20Keep%20Me%20Hanging%20On%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="53" Name="Easy Lover (80s Club ReDrum)" Artist="Philip Bailey, Phil Collins" Genre="Disco" AverageBpm="127.99" Tonality="Fm" TotalTime="341" Location="file://localhost/Music/Demo/Philip%20Bailey,%20Phil%20Collins%20-%20Easy%20Lover%20(80s%20Club%20ReDrum).mp3"/>
+    <TRACK TrackID="54" Name="Because The Night (DeeJayOvi ReDrum)" Artist="Co. Ro., Tarlisa" Genre="Dance" AverageBpm="128.00" Tonality="Cm" TotalTime="279" Location="file://localhost/Music/Demo/Co.%20Ro.,%20Tarlisa%20-%20Because%20The%20Night%20(DeeJayOvi%20ReDrum).mp3"/>
+    <TRACK TrackID="55" Name="Mastermix" Artist="ABBA" Genre="Disco" AverageBpm="125.01" Tonality="Dm" TotalTime="480" Location="file://localhost/Music/Demo/ABBA%20-%20Mastermix.mp3"/>
+    <TRACK TrackID="56" Name="Shivers (Club ReWork)" Artist="Ed Sheeran" Genre="Pop" AverageBpm="132.00" Tonality="Bm" TotalTime="285" Location="file://localhost/Music/Demo/Ed%20Sheeran%20-%20Shivers%20(Club%20ReWork).mp3"/>
+    <TRACK TrackID="57" Name="Counting Stars (Intro &amp; Outro)" Artist="OneRepublic" Genre="Pop" AverageBpm="122.00" Tonality="Dbm" TotalTime="266" Location="file://localhost/Music/Demo/OneRepublic%20-%20Counting%20Stars%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="58" Name="Solange du dich bewegst" Artist="Wilhelmine" Genre="Pop" AverageBpm="120.00" Tonality="Bb" TotalTime="211" Location="file://localhost/Music/Demo/Wilhelmine%20-%20Solange%20du%20dich%20bewegst.mp3"/>
+    <TRACK TrackID="59" Name="Bella Napoli" Artist="Roy Bianco &amp; Die Abbrunzati Boys" Genre="Other" AverageBpm="120.03" Tonality="D" TotalTime="281" Location="file://localhost/Music/Demo/Roy%20Bianco%20%26%20Die%20Abbrunzati%20Boys%20-%20Bella%20Napoli.mp3"/>
+    <TRACK TrackID="60" Name="Books From Boxes" Artist="Maxïmo Park" Genre="Alternative, Rock" AverageBpm="95.16" Tonality="Dm" TotalTime="208" Location="file://localhost/Music/Demo/Max%C3%AFmo%20Park%20-%20Books%20From%20Boxes.mp3"/>
+    <TRACK TrackID="61" Name="Hungriges Herz" Artist="Mia." Genre="Pop" AverageBpm="135.00" Tonality="F" TotalTime="261" Location="file://localhost/Music/Demo/Mia.%20-%20Hungriges%20Herz.mp3"/>
+    <TRACK TrackID="62" Name="Ein Kompliment" Artist="Sportfreunde Stiller" Genre="Pop" AverageBpm="157.00" Tonality="Em" TotalTime="264" Location="file://localhost/Music/Demo/Sportfreunde%20Stiller%20-%20Ein%20Kompliment.mp3"/>
+    <TRACK TrackID="63" Name="Denkmal" Artist="Wir sind Helden" Genre="Pop" AverageBpm="94.00" Tonality="E" TotalTime="198" Location="file://localhost/Music/Demo/Wir%20sind%20Helden%20-%20Denkmal.mp3"/>
+    <TRACK TrackID="64" Name="99 Luftballons" Artist="Nena" Genre="NDW" AverageBpm="97.10" Tonality="Dbm" TotalTime="231" Location="file://localhost/Music/Demo/Nena%20-%2099%20Luftballons.mp3"/>
+    <TRACK TrackID="65" Name="Smalltown Boy (Intro &amp; Outro)" Artist="Bronski Beat" Genre="Pop" AverageBpm="135.00" Tonality="Cm" TotalTime="329" Location="file://localhost/Music/Demo/Bronski%20Beat%20-%20Smalltown%20Boy%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="66" Name="Junge (Extended Redrum)" Artist="Die Ärzte" Genre="ROCK" AverageBpm="105.26" Tonality="Bbm" TotalTime="242" Location="file://localhost/Music/Demo/Die%20%C3%84rzte%20-%20Junge%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="67" Name="Tage wie diese (Extended Redrum)" Artist="Die Toten Hosen" Genre="Rock" AverageBpm="97.00" Tonality="D" TotalTime="348" Location="file://localhost/Music/Demo/Die%20Toten%20Hosen%20-%20Tage%20wie%20diese%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="68" Name="Wonderwall" Artist="Oasis" Genre="Alternative, Indie Rock, Rock" AverageBpm="173.90" Tonality="A" TotalTime="277" Location="file://localhost/Music/Demo/Oasis%20-%20Wonderwall.mp3"/>
+    <TRACK TrackID="69" Name="Don't Stop Me Now (70s Rock ReDrum)" Artist="Queen" Genre="ROCK" AverageBpm="158.00" Tonality="Dm" TotalTime="201" Location="file://localhost/Music/Demo/Queen%20-%20Don't%20Stop%20Me%20Now%20(70s%20Rock%20ReDrum).mp3"/>
+    <TRACK TrackID="70" Name="SPECIAL C FOOD &amp; MOOD LIVE MIX" Artist="DVJ Kosta" Genre="Other" AverageBpm="120.01" Tonality="11A" TotalTime="14516" Location="file://localhost/Music/Demo/DVJ%20Kosta%20-%20SPECIAL%20C%20FOOD%20%26%20MOOD%20LIVE%20MIX.mp3"/>
+    <TRACK TrackID="71" Name="Played-A-Live (The Bongo Song) (Intro &amp; Outro)" Artist="Safri Duo" Genre="Dance" AverageBpm="138.00" Tonality="12B" TotalTime="194" Location="file://localhost/Music/Demo/Safri%20Duo%20-%20Played-A-Live%20(The%20Bongo%20Song)%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="72" Name="Conquest of Paradise" Artist="Vangelis" Genre="Pop" AverageBpm="148.05" Tonality="7A" TotalTime="278" Location="file://localhost/Music/Demo/Vangelis%20-%20Conquest%20of%20Paradise.mp3"/>
+    <TRACK TrackID="73" Name="1000 Träume weit (Torneró) (Extended Schlager Redrum)" Artist="Anna-Maria Zimmermann" Genre="Pop" AverageBpm="126.00" Tonality="1A" TotalTime="280" Location="file://localhost/Music/Demo/Anna-Maria%20Zimmermann%20-%201000%20Tr%C3%A4ume%20weit%20(Torner%C3%B3)%20(Extended%20Schlager%20Redrum).mp3"/>
+    <TRACK TrackID="74" Name="Wunderschön (Extended Schlager Redrum)" Artist="Mike Leon Grosch" Genre="Pop" AverageBpm="128.00" Tonality="1B" TotalTime="282" Location="file://localhost/Music/Demo/Mike%20Leon%20Grosch%20-%20Wundersch%C3%B6n%20(Extended%20Schlager%20Redrum).mp3"/>
+    <TRACK TrackID="75" Name="Regenbogenfarben (Extended)" Artist="Kerstin Ott, Helene Fischer" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="123.00" Tonality="7A" TotalTime="320" Location="file://localhost/Music/Demo/Kerstin%20Ott,%20Helene%20Fischer%20-%20Regenbogenfarben%20(Extended).mp3"/>
+    <TRACK TrackID="76" Name="GUT GENUG meets Bellakiar" Artist="KITSCHKRIEG feat. BLUMENGARTEN &amp; SHIRIN DAVID and EDGR" Genre="" AverageBpm="121.99" Tonality="Abm" TotalTime="254" Location="file://localhost/Music/Demo/KITSCHKRIEG%20feat.%20BLUMENGARTEN%20%26%20SHIRIN%20DAVID%20and%20EDGR%20-%20GUT%20GENUG%20meets%20Bellakiar.mp3"/>
+    <TRACK TrackID="77" Name="Gimme! Gimme! Gimme! (Sgt Slick's Melbourne Recut) (DJ MiCHA beats Ferrari-Hype Edit)" Artist="Sgt Slick" Genre="DJ Edits" AverageBpm="123.00" Tonality="7A" TotalTime="314" Location="file://localhost/Music/Demo/Sgt%20Slick%20-%20Gimme!%20Gimme!%20Gimme!%20(Sgt%20Slick's%20Melbourne%20Recut)%20(DJ%20MiCHA%20beats%20Ferrari-Hype%20Edit).mp3"/>
+    <TRACK TrackID="78" Name="Hot 'n' Cold  (Intro &amp; Outro)" Artist="Katy Perry" Genre="Pop" AverageBpm="132.00" Tonality="9B" TotalTime="239" Location="file://localhost/Music/Demo/Katy%20Perry%20-%20Hot%20'n'%20Cold%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="79" Name="Shut Up and Dance (SickMix intro)" Artist="Walk The Moon" Genre="Rock" AverageBpm="128.01" Tonality="3B" TotalTime="221" Location="file://localhost/Music/Demo/Walk%20The%20Moon%20-%20Shut%20Up%20and%20Dance%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="80" Name="Mr Brightside (Intro &amp; Outro)" Artist="The Killers" Genre="Rock" AverageBpm="148.00" Tonality="3B" TotalTime="235" Location="file://localhost/Music/Demo/The%20Killers%20-%20Mr%20Brightside%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="81" Name="Sex on Fire (Intro &amp; Outro)" Artist="Kings Of Leon" Genre="Rock" AverageBpm="153.00" Tonality="12A" TotalTime="228" Location="file://localhost/Music/Demo/Kings%20Of%20Leon%20-%20Sex%20on%20Fire%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="82" Name="Dance With Somebody" Artist="Mando Diao" Genre="ROCK" AverageBpm="150.00" Tonality="Dbm" TotalTime="241" Location="file://localhost/Music/Demo/Mando%20Diao%20-%20Dance%20With%20Somebody.mp3"/>
+    <TRACK TrackID="83" Name="Can't Hold Us (SickMix intro)" Artist="Macklemore, Ryan Lewis, Ray Dalton" Genre="Hip-Hop" AverageBpm="146.34" Tonality="9A" TotalTime="276" Location="file://localhost/Music/Demo/Macklemore,%20Ryan%20Lewis,%20Ray%20Dalton%20-%20Can't%20Hold%20Us%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="84" Name="Vielleicht Vielleicht (Norda, EmJo, Big Tim Extended Remix)" Artist="MilleniumKid, Jbs, One Republic, Alesso" Genre="Other" AverageBpm="139.53" Tonality="10A" TotalTime="196" Location="file://localhost/Music/Demo/MilleniumKid,%20Jbs,%20One%20Republic,%20Alesso%20-%20Vielleicht%20Vielleicht%20(Norda,%20EmJo,%20Big%20Tim%20Extended%20Remix).mp3"/>
+    <TRACK TrackID="85" Name="Sweet Nothing (Intro &amp; Outro)" Artist="Calvin Harris, Florence Welch" Genre="House" AverageBpm="128.00" Tonality="1A" TotalTime="236" Location="file://localhost/Music/Demo/Calvin%20Harris,%20Florence%20Welch%20-%20Sweet%20Nothing%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="86" Name="Boogie Wonderland (Dario Caminita Revibe)" Artist="Earth, Wind &amp; Fire" Genre="Disco" AverageBpm="131.17" Tonality="7A" TotalTime="375" Location="file://localhost/Music/Demo/Earth,%20Wind%20%26%20Fire%20-%20Boogie%20Wonderland%20(Dario%20Caminita%20Revibe).mp3"/>
+    <TRACK TrackID="87" Name="Smells Like Teen Spirit (Intro &amp; Outro)" Artist="Nirvana" Genre="ROCK" AverageBpm="120.00" Tonality="4A" TotalTime="285" Location="file://localhost/Music/Demo/Nirvana%20-%20Smells%20Like%20Teen%20Spirit%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="88" Name="Teenage Dirtbag (Intro &amp; Outro)" Artist="Wheatus" Genre="Rock" AverageBpm="95.00" Tonality="12B" TotalTime="250" Location="file://localhost/Music/Demo/Wheatus%20-%20Teenage%20Dirtbag%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="89" Name="Schuettel Deinen Speck (DJ MiCHA beats Comebabycome-Hype Edit) [#V2]" Artist="Peter Fox" Genre="German Hip-Hop" AverageBpm="108.00" Tonality="Am" TotalTime="213" Location="file://localhost/Music/Demo/Peter%20Fox%20-%20Schuettel%20Deinen%20Speck%20(DJ%20MiCHA%20beats%20Comebabycome-Hype%20Edit)%20%5B%23V2%5D.mp3"/>
+    <TRACK TrackID="90" Name="Wannabe x I Want It That Way (Dj Allan Word Play Edit)" Artist="Spice Girls x Backstreet Boys" Genre="" AverageBpm="110.00" Tonality="F#m" TotalTime="170" Location="file://localhost/Music/Demo/Spice%20Girls%20x%20Backstreet%20Boys%20-%20Wannabe%20x%20I%20Want%20It%20That%20Way%20(Dj%20Allan%20Word%20Play%20Edit).mp3"/>
+    <TRACK TrackID="91" Name="Der Zug hat keine Bremse (Extended Schlager Redrum)" Artist="Mia Julia, Lorenz Büffel, Malle Anja" Genre="Pop" AverageBpm="138.00" Tonality="7A" TotalTime="264" Location="file://localhost/Music/Demo/Mia%20Julia,%20Lorenz%20B%C3%BCffel,%20Malle%20Anja%20-%20Der%20Zug%20hat%20keine%20Bremse%20(Extended%20Schlager%20Redrum).mp3"/>
+    <TRACK TrackID="92" Name="Wer Banknoten Nachmacht (Remastered)" Artist="Mike Krüger" Genre="Pop" AverageBpm="125.69" Tonality="11B" TotalTime="195" Location="file://localhost/Music/Demo/Mike%20Kr%C3%BCger%20-%20Wer%20Banknoten%20Nachmacht%20(Remastered).mp3"/>
+    <TRACK TrackID="93" Name="Ich liebe das Leben" Artist="Vicky Leandros" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="150.00" Tonality="12B" TotalTime="298" Location="file://localhost/Music/Demo/Vicky%20Leandros%20-%20Ich%20liebe%20das%20Leben.mp3"/>
+    <TRACK TrackID="94" Name="I Wanna Dance With Somebody (80s ReDrum)" Artist="Whitney Houston" Genre="Pop" AverageBpm="118.00" Tonality="2B" TotalTime="212" Location="file://localhost/Music/Demo/Whitney%20Houston%20-%20I%20Wanna%20Dance%20With%20Somebody%20(80s%20ReDrum).mp3"/>
+    <TRACK TrackID="95" Name="Mit 18" Artist="Marius Müller-Westernhagen" Genre="Pop" AverageBpm="127.66" Tonality="8A" TotalTime="313" Location="file://localhost/Music/Demo/Marius%20M%C3%BCller-Westernhagen%20-%20Mit%2018.mp3"/>
+    <TRACK TrackID="96" Name="Denkmal (Ton-Artisten Edit)" Artist="Wir sind Helden" Genre="DJ Edits" AverageBpm="95.01" Tonality="12B" TotalTime="209" Location="file://localhost/Music/Demo/Wir%20sind%20Helden%20-%20Denkmal%20(Ton-Artisten%20Edit).mp3"/>
+    <TRACK TrackID="97" Name="Wackelkontakt (DJ MiCHA beats Edit)" Artist="Oimara" Genre="DJ Edits" AverageBpm="169.99" Tonality="9B" TotalTime="186" Location="file://localhost/Music/Demo/Oimara%20-%20Wackelkontakt%20(DJ%20MiCHA%20beats%20Edit).mp3"/>
+    <TRACK TrackID="98" Name="Baby Bell" Artist="Breitner" Genre="Other" AverageBpm="138.00" Tonality="Cm" TotalTime="159" Location="file://localhost/Music/Demo/Breitner%20-%20Baby%20Bell.mp3"/>
+    <TRACK TrackID="99" Name="Sarà Perché Ti Amo (Stereoact Remix)" Artist="DJ Redblack &amp; Stereoact" Genre="Dance &amp; DJ" AverageBpm="138.00" Tonality="12B" TotalTime="122" Location="file://localhost/Music/Demo/DJ%20Redblack%20%26%20Stereoact%20-%20Sar%C3%A0%20Perch%C3%A9%20Ti%20Amo%20(Stereoact%20Remix).mp3"/>
+    <TRACK TrackID="100" Name="Maria (I Like It Loud)" Artist="Scooter" Genre="Dance" AverageBpm="143.00" Tonality="1A" TotalTime="235" Location="file://localhost/Music/Demo/Scooter%20-%20Maria%20(I%20Like%20It%20Loud).mp3"/>
+    <TRACK TrackID="101" Name="Sweet Caroline (Party Remix)" Artist="DJ Ötzi" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="144.93" Tonality="10B" TotalTime="206" Location="file://localhost/Music/Demo/DJ%20%C3%96tzi%20-%20Sweet%20Caroline%20(Party%20Remix).mp3"/>
+    <TRACK TrackID="102" Name="Major Tom" Artist="Peter Schilling" Genre="Pop" AverageBpm="164.00" Tonality="Em" TotalTime="273" Location="file://localhost/Music/Demo/Peter%20Schilling%20-%20Major%20Tom.mp3"/>
+    <TRACK TrackID="103" Name="Schrei Nach Liebe (Extended Redrum)" Artist="Die Toten Hosen" Genre="ROCK" AverageBpm="168.00" Tonality="7A" TotalTime="311" Location="file://localhost/Music/Demo/Die%20Toten%20Hosen%20-%20Schrei%20Nach%20Liebe%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="104" Name="Songs für Liam (Extended Redrum)" Artist="Kraftklub" Genre="Rock" AverageBpm="157.00" Tonality="8A" TotalTime="229" Location="file://localhost/Music/Demo/Kraftklub%20-%20Songs%20f%C3%BCr%20Liam%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="105" Name="Sonne (DJ MiCHA beats Edit)" Artist="Rammstein" Genre="DJ Edits" AverageBpm="150.01" Tonality="10A" TotalTime="300" Location="file://localhost/Music/Demo/Rammstein%20-%20Sonne%20(DJ%20MiCHA%20beats%20Edit).mp3"/>
+    <TRACK TrackID="106" Name="Sophia Loren" Artist="Roy Bianco &amp; Die Abbrunzati Boys" Genre="Alternative" AverageBpm="145.00" Tonality="6B" TotalTime="229" Location="file://localhost/Music/Demo/Roy%20Bianco%20%26%20Die%20Abbrunzati%20Boys%20-%20Sophia%20Loren.mp3"/>
+    <TRACK TrackID="107" Name="I'm Gonna Be (500 Miles)" Artist="The Proclaimers" Genre="Rock" AverageBpm="131.00" Tonality="12B" TotalTime="219" Location="file://localhost/Music/Demo/The%20Proclaimers%20-%20I'm%20Gonna%20Be%20(500%20Miles).mp3"/>
+    <TRACK TrackID="108" Name="Gute Laune (DJ MiCHA beats Edit)" Artist="Großstadtengel" Genre="" AverageBpm="134.00" Tonality="Gm" TotalTime="186" Location="file://localhost/Music/Demo/Gro%C3%9Fstadtengel%20-%20Gute%20Laune%20(DJ%20MiCHA%20beats%20Edit).mp3"/>
+    <TRACK TrackID="109" Name="Cotton Eye Joe (Intro &amp; Outro)" Artist="Rednex" Genre="Country" AverageBpm="132.27" Tonality="11B" TotalTime="227" Location="file://localhost/Music/Demo/Rednex%20-%20Cotton%20Eye%20Joe%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="110" Name="Cordula Grün (MarkDee's Party Edit)" Artist="Die Draufgänger" Genre="DJ Edits" AverageBpm="126.00" Tonality="6B" TotalTime="247" Location="file://localhost/Music/Demo/Die%20Draufg%C3%A4nger%20-%20Cordula%20Gr%C3%BCn%20(MarkDee's%20Party%20Edit).mp3"/>
+    <TRACK TrackID="111" Name="Love Generation (Intro &amp; Outro)" Artist="Bob Sinclar" Genre="House" AverageBpm="128.00" Tonality="3B" TotalTime="199" Location="file://localhost/Music/Demo/Bob%20Sinclar%20-%20Love%20Generation%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="112" Name="I Gotta Feeling We Found Love (Yan Blend Mixshow Edit) 128Bpm Clean" Artist="Black Eyed Peas vs Rihanna x DJ Yan" Genre="Dance" AverageBpm="128.00" Tonality="6A" TotalTime="301" Location="file://localhost/Music/Demo/Black%20Eyed%20Peas%20vs%20Rihanna%20x%20DJ%20Yan%20-%20I%20Gotta%20Feeling%20We%20Found%20Love%20(Yan%20Blend%20Mixshow%20Edit)%20128Bpm%20Clean.mp3"/>
+    <TRACK TrackID="113" Name="Precious Little Diamond (ReWork Mix)" Artist="Fox the Fox" Genre="Pop" AverageBpm="120.00" Tonality="12A" TotalTime="330" Location="file://localhost/Music/Demo/Fox%20the%20Fox%20-%20Precious%20Little%20Diamond%20(ReWork%20Mix).mp3"/>
+    <TRACK TrackID="114" Name="Atemlos durch die Nacht (Extended Schlager Redrum)" Artist="Helene Fischer" Genre="Pop" AverageBpm="128.03" Tonality="1A" TotalTime="269" Location="file://localhost/Music/Demo/Helene%20Fischer%20-%20Atemlos%20durch%20die%20Nacht%20(Extended%20Schlager%20Redrum).mp3"/>
+    <TRACK TrackID="115" Name="Auf Uns (Just Nik Edit)" Artist="Andreas Bourani" Genre="DJ Edits" AverageBpm="128.00" Tonality="D" TotalTime="322" Location="file://localhost/Music/Demo/Andreas%20Bourani%20-%20Auf%20Uns%20(Just%20Nik%20Edit).mp3"/>
+    <TRACK TrackID="116" Name="Die Immer Lacht (Extended Redrum)" Artist="Kerstin Ott, Stereoact" Genre="Pop" AverageBpm="128.00" Tonality="9A" TotalTime="271" Location="file://localhost/Music/Demo/Kerstin%20Ott,%20Stereoact%20-%20Die%20Immer%20Lacht%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="117" Name="Stumblin' In (DJ MiCHA beats Edit)" Artist="Cyril" Genre="DJ Edits" AverageBpm="126.02" Tonality="9A" TotalTime="234" Location="file://localhost/Music/Demo/Cyril%20-%20Stumblin'%20In%20(DJ%20MiCHA%20beats%20Edit).mp3"/>
+    <TRACK TrackID="118" Name="Schau mal herein (Extended Schlager Redrum)" Artist="Helene Fischer, Florian Silbereisen" Genre="Pop" AverageBpm="126.00" Tonality="9A" TotalTime="226" Location="file://localhost/Music/Demo/Helene%20Fischer,%20Florian%20Silbereisen%20-%20Schau%20mal%20herein%20(Extended%20Schlager%20Redrum).mp3"/>
+    <TRACK TrackID="119" Name="Saturday Night (Intro &amp; Outro)" Artist="Whigfield" Genre="Disco" AverageBpm="130.11" Tonality="1B" TotalTime="277" Location="file://localhost/Music/Demo/Whigfield%20-%20Saturday%20Night%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="120" Name="Y.M.C.A. (Intro &amp; Outro)" Artist="Village People" Genre="Disco" AverageBpm="127.00" Tonality="Ebm" TotalTime="252" Location="file://localhost/Music/Demo/Village%20People%20-%20Y.M.C.A.%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="121" Name="Hulapalu (DJ Fosco Dance Mix)" Artist="Andreas Gabalier" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="132.00" Tonality="8B" TotalTime="203" Location="file://localhost/Music/Demo/Andreas%20Gabalier%20-%20Hulapalu%20(DJ%20Fosco%20Dance%20Mix).mp3"/>
+    <TRACK TrackID="122" Name="Warum hast du nicht nein gesagt (Extended Schlager Redrum)" Artist="Roland Kaiser, Maite Kelly" Genre="Pop" AverageBpm="128.00" Tonality="Dbm" TotalTime="311" Location="file://localhost/Music/Demo/Roland%20Kaiser,%20Maite%20Kelly%20-%20Warum%20hast%20du%20nicht%20nein%20gesagt%20(Extended%20Schlager%20Redrum).mp3"/>
+    <TRACK TrackID="123" Name="Herzbeben (Extended)" Artist="Helene Fischer" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="128.00" Tonality="12A" TotalTime="280" Location="file://localhost/Music/Demo/Helene%20Fischer%20-%20Herzbeben%20(Extended).mp3"/>
+    <TRACK TrackID="124" Name="I Was Made For Lovin' You (Intro &amp; Outro)" Artist="Kiss" Genre="Rock" AverageBpm="129.00" Tonality="Em" TotalTime="314" Location="file://localhost/Music/Demo/Kiss%20-%20I%20Was%20Made%20For%20Lovin'%20You%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="125" Name="Beggin (DJ Intro Clean)" Artist="Måneskin" Genre="Other" AverageBpm="134.01" Tonality="10A" TotalTime="200" Location="file://localhost/Music/Demo/Ma%CC%8Aneskin%20-%20Beggin%20(DJ%20Intro%20Clean).mp3"/>
+    <TRACK TrackID="126" Name="Summer Of '69 (SickMix intro)" Artist="Bryan Adams" Genre="Rock" AverageBpm="137.81" Tonality="10B" TotalTime="250" Location="file://localhost/Music/Demo/Bryan%20Adams%20-%20Summer%20Of%20'69%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="127" Name="Bettina, zieh dir bitte etwas an (Extended Redrum)" Artist="Fettes Brot" Genre="Hip-Hop" AverageBpm="135.00" Tonality="12A" TotalTime="284" Location="file://localhost/Music/Demo/Fettes%20Brot%20-%20Bettina,%20zieh%20dir%20bitte%20etwas%20an%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="128" Name="An Guten Tagen (DJ MiCHA beats Edit)" Artist="Johannes Oerding" Genre="DJ Edits" AverageBpm="127.73" Tonality="9A" TotalTime="218" Location="file://localhost/Music/Demo/Johannes%20Oerding%20-%20An%20Guten%20Tagen%20(DJ%20MiCHA%20beats%20Edit).mp3"/>
+    <TRACK TrackID="129" Name="Without You (SvenSation Edit) v2" Artist="David Guetta Feat. Usher and Avicii" Genre="" AverageBpm="134.00" Tonality="D" TotalTime="234" Location="file://localhost/Music/Demo/David%20Guetta%20Feat.%20Usher%20and%20Avicii%20-%20Without%20You%20(SvenSation%20Edit)%20v2.mp3"/>
+    <TRACK TrackID="130" Name="The Fate of Ophelia (Loud Luxury Remix)" Artist="Taylor Swift/Loud Luxury" Genre="Pop" AverageBpm="130.00" Tonality="Dm" TotalTime="156" Location="file://localhost/Music/Demo/Taylor%20Swift/Loud%20Luxury%20-%20The%20Fate%20of%20Ophelia%20(Loud%20Luxury%20Remix).mp3"/>
+    <TRACK TrackID="131" Name="Dynamite vs. Don't Stop Believin (Collectiv Combo &amp; Petrvs Mashup)" Artist="Taio Cruz, Journey" Genre="DJ Edits" AverageBpm="120.97" Tonality="E" TotalTime="260" Location="file://localhost/Music/Demo/Taio%20Cruz,%20Journey%20-%20Dynamite%20vs.%20Don't%20Stop%20Believin%20(Collectiv%20Combo%20%26%20Petrvs%20Mashup).mp3"/>
+    <TRACK TrackID="132" Name="Makina Time" Artist="Marlon Hoffstadt/Dj Konik" Genre="House" AverageBpm="165.00" Tonality="Cm" TotalTime="130" Location="file://localhost/Music/Demo/Marlon%20Hoffstadt/Dj%20Konik%20-%20Makina%20Time.mp3"/>
+    <TRACK TrackID="133" Name="Erinner mich" Artist="HBz, 2 Engel &amp; Charlie" Genre="Dance" AverageBpm="165.29" Tonality="4B" TotalTime="153" Location="file://localhost/Music/Demo/HBz,%202%20Engel%20%26%20Charlie%20-%20Erinner%20mich.mp3"/>
+    <TRACK TrackID="134" Name="Ruhrgebiet" Artist="Wolfgang Petry" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="179.99" Tonality="8A" TotalTime="180" Location="file://localhost/Music/Demo/Wolfgang%20Petry%20-%20Ruhrgebiet.mp3"/>
+    <TRACK TrackID="135" Name="Nur geträumt" Artist="Nena" Genre="Pop" AverageBpm="177.13" Tonality="9A" TotalTime="222" Location="file://localhost/Music/Demo/Nena%20-%20Nur%20getr%C3%A4umt.mp3"/>
+    <TRACK TrackID="136" Name="Back In Time (Club ReDrum)" Artist="Pitbull" Genre="Hip-Hop" AverageBpm="127.99" Tonality="8A" TotalTime="165" Location="file://localhost/Music/Demo/Pitbull%20-%20Back%20In%20Time%20(Club%20ReDrum).mp3"/>
+    <TRACK TrackID="137" Name="Hugel, Pitbull" Artist="I Know You Want Me X Bam Bam" Genre="" AverageBpm="127.00" Tonality="8A" TotalTime="164" Location="file://localhost/Music/Demo/I%20Know%20You%20Want%20Me%20X%20Bam%20Bam%20-%20Hugel,%20Pitbull.mp3"/>
+    <TRACK TrackID="138" Name="Blasterjaxx &amp; Kate Ryan - Désenchantée 3000" Artist="Blasterjaxx" Genre="" AverageBpm="144.72" Tonality="Bbm" TotalTime="184" Location="file://localhost/Music/Demo/Blasterjaxx%20-%20Blasterjaxx%20%26%20Kate%20Ryan%20-%20D%C3%A9senchant%C3%A9e%203000.mp3"/>
+    <TRACK TrackID="139" Name="Insomnia (Intro &amp; Outro)" Artist="Faithless" Genre="Trance" AverageBpm="127.00" Tonality="10A" TotalTime="216" Location="file://localhost/Music/Demo/Faithless%20-%20Insomnia%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="140" Name="Michaela" Artist="Bata Illic" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="100.33" Tonality="4B" TotalTime="188" Location="file://localhost/Music/Demo/Bata%20Illic%20-%20Michaela.mp3"/>
+    <TRACK TrackID="141" Name="Dancing Queen  (Intro &amp; Outro)" Artist="ABBA" Genre="Pop" AverageBpm="100.00" Tonality="11B" TotalTime="250" Location="file://localhost/Music/Demo/ABBA%20-%20Dancing%20Queen%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="142" Name="Let's Get It Started x Everybody (Dj Allan Word Play Edit 105-108 Bpm)" Artist="The Black Eyed Peas x Backstreet Boys" Genre="" AverageBpm="107.14" Tonality="3A" TotalTime="255" Location="file://localhost/Music/Demo/The%20Black%20Eyed%20Peas%20x%20Backstreet%20Boys%20-%20Let's%20Get%20It%20Started%20x%20Everybody%20(Dj%20Allan%20Word%20Play%20Edit%20105-108%20Bpm).mp3"/>
+    <TRACK TrackID="143" Name="Yeah!  (Intro &amp; Outro)" Artist="Usher feat. Lil Jon &amp; Ludacris" Genre="R&amp;B" AverageBpm="105.00" Tonality="6A" TotalTime="286" Location="file://localhost/Music/Demo/Usher%20feat.%20Lil%20Jon%20%26%20Ludacris%20-%20Yeah!%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="144" Name="Macarena (Intro &amp; Outro)" Artist="Los Del Rio" Genre="Latin" AverageBpm="103.45" Tonality="1A" TotalTime="260" Location="file://localhost/Music/Demo/Los%20Del%20Rio%20-%20Macarena%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="145" Name="Rasenschach" Artist="Filow" Genre="Other" AverageBpm="159.00" Tonality="8A" TotalTime="144" Location="file://localhost/Music/Demo/Filow%20-%20Rasenschach.mp3"/>
+    <TRACK TrackID="146" Name="BIKINI GRELL" Artist="Ikkimel/Robbensohn" Genre="" AverageBpm="160.00" Tonality="4A" TotalTime="123" Location="file://localhost/Music/Demo/Ikkimel/Robbensohn%20-%20BIKINI%20GRELL.mp3"/>
+    <TRACK TrackID="147" Name="Als du gingst - edit" Artist="Contec" Genre="Other" AverageBpm="160.00" Tonality="10A" TotalTime="239" Location="file://localhost/Music/Demo/Contec%20-%20Als%20du%20gingst%20-%20edit.mp3"/>
+    <TRACK TrackID="148" Name="Sunglasses At Night" Artist="Camo &amp; Krooked/Tiga/Zyntherius" Genre="" AverageBpm="174.00" Tonality="2A" TotalTime="179" Location="file://localhost/Music/Demo/Camo%20%26%20Krooked/Tiga/Zyntherius%20-%20Sunglasses%20At%20Night.mp3"/>
+    <TRACK TrackID="149" Name="Durch den Monsum" Artist="Tokio Hotel" Genre="Pop" AverageBpm="111.99" Tonality="Em" TotalTime="236" Location="file://localhost/Music/Demo/Tokio%20Hotel%20-%20Durch%20den%20Monsum.mp3"/>
+    <TRACK TrackID="150" Name="Angels" Artist="Robbie Williams" Genre="Rock" AverageBpm="75.03" Tonality="12B" TotalTime="265" Location="file://localhost/Music/Demo/Robbie%20Williams%20-%20Angels.mp3"/>
+    <TRACK TrackID="151" Name="Alles Neu (Extended Redrum Vs 2)" Artist="Peter Fox" Genre="Other" AverageBpm="134.00" Tonality="2A" TotalTime="276" Location="file://localhost/Music/Demo/Peter%20Fox%20-%20Alles%20Neu%20(Extended%20Redrum%20Vs%202).mp3"/>
+    <TRACK TrackID="152" Name="You Shook Me All Night Long (SickMix intro)" Artist="AC/DC" Genre="Rock" AverageBpm="125.01" Tonality="D" TotalTime="228" Location="file://localhost/Music/Demo/AC/DC%20-%20You%20Shook%20Me%20All%20Night%20Long%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="153" Name="Temperature (Intro &amp; Outro)" Artist="Sean Paul" Genre="Dancehall" AverageBpm="125.18" Tonality="3A" TotalTime="240" Location="file://localhost/Music/Demo/Sean%20Paul%20-%20Temperature%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="154" Name="Candy Shop (SickMix intro)" Artist="50 Cent, Olivia" Genre="Hip-Hop" AverageBpm="98.00" Tonality="11A" TotalTime="249" Location="file://localhost/Music/Demo/50%20Cent,%20Olivia%20-%20Candy%20Shop%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="155" Name="Roller (Extended Redrum)" Artist="Apache 207" Genre="Hip-Hop" AverageBpm="128.00" Tonality="3A" TotalTime="208" Location="file://localhost/Music/Demo/Apache%20207%20-%20Roller%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="156" Name="Ohne mein Team (Extended Redrum)" Artist="Bonez MC, RAF Camora, Maxwell" Genre="Rap/Hip Hop, Deutsche Musik" AverageBpm="130.00" Tonality="10A" TotalTime="247" Location="file://localhost/Music/Demo/Bonez%20MC,%20RAF%20Camora,%20Maxwell%20-%20Ohne%20mein%20Team%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="157" Name="Paradise" Artist="VIZE" Genre="Electro, Dance, Disco" AverageBpm="130.00" Tonality="2A" TotalTime="156" Location="file://localhost/Music/Demo/VIZE%20-%20Paradise.mp3"/>
+    <TRACK TrackID="158" Name="Biertornado" Artist="PA69" Genre="" AverageBpm="128.00" Tonality="2A" TotalTime="218" Location="file://localhost/Music/Demo/PA69%20-%20Biertornado.mp3"/>
+    <TRACK TrackID="159" Name="Jim Beam &amp; Voddi" Artist="AK AUSSERKONTROLLE/Bonez MC" Genre="" AverageBpm="128.00" Tonality="2A" TotalTime="214" Location="file://localhost/Music/Demo/AK%20AUSSERKONTROLLE/Bonez%20MC%20-%20Jim%20Beam%20%26%20Voddi.mp3"/>
+    <TRACK TrackID="160" Name="ANOTR &amp; 54 Ultra - Talk To You (Extended Mix)" Artist="Future House Music" Genre="Music" AverageBpm="132.00" Tonality="Cm" TotalTime="282" Location="file://localhost/Music/Demo/Future%20House%20Music%20-%20ANOTR%20%26%2054%20Ultra%20-%20Talk%20To%20You%20(Extended%20Mix).mp3"/>
+    <TRACK TrackID="161" Name="Bausa x Seeing Double - Magnetic (Jay Dizzle &amp; Howard Hill  Edit)" Artist="Jay Dizzle &amp; Howard Hill" Genre="House" AverageBpm="125.51" Tonality="Em" TotalTime="310" Location="file://localhost/Music/Demo/Jay%20Dizzle%20%26%20Howard%20Hill%20-%20Bausa%20x%20Seeing%20Double%20-%20Magnetic%20(Jay%20Dizzle%20%26%20Howard%20Hill%20%20Edit).mp3"/>
+    <TRACK TrackID="162" Name="Forca" Artist="Nelly Furtado" Genre="Pop" AverageBpm="122.87" Tonality="1A" TotalTime="178" Location="file://localhost/Music/Demo/Nelly%20Furtado%20-%20Forca.mp3"/>
+    <TRACK TrackID="163" Name="80 Millionen (Extended Redrum)" Artist="Max Giesinger" Genre="Pop" AverageBpm="115.00" Tonality="11B" TotalTime="286" Location="file://localhost/Music/Demo/Max%20Giesinger%20-%2080%20Millionen%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="164" Name="Auf uns" Artist="Andreas Bourani" Genre="Pop" AverageBpm="128.00" Tonality="10B" TotalTime="239" Location="file://localhost/Music/Demo/Andreas%20Bourani%20-%20Auf%20uns.mp3"/>
+    <TRACK TrackID="165" Name="Rhythm is a Dancer (Intro &amp; Outro)" Artist="Snap!" Genre="Dance" AverageBpm="124.00" Tonality="8A" TotalTime="237" Location="file://localhost/Music/Demo/Snap!%20-%20Rhythm%20is%20a%20Dancer%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="166" Name="Ich Fühl Mich Disco (DJ MiCHA beats ReDrum)" Artist="Christian Steiffen" Genre="Pop" AverageBpm="116.99" Tonality="9A" TotalTime="266" Location="file://localhost/Music/Demo/Christian%20Steiffen%20-%20Ich%20F%C3%BChl%20Mich%20Disco%20(DJ%20MiCHA%20beats%20ReDrum).mp3"/>
+    <TRACK TrackID="167" Name="Raise Your Glass (Intro &amp; Outro)" Artist="P!nk" Genre="Pop" AverageBpm="122.00" Tonality="9B" TotalTime="233" Location="file://localhost/Music/Demo/P!nk%20-%20Raise%20Your%20Glass%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="168" Name="Atemlos Durch Die Nacht (Album Version)" Artist="Helene Fischer" Genre="Pop" AverageBpm="128.00" Tonality="1A" TotalTime="221" Location="file://localhost/Music/Demo/Helene%20Fischer%20-%20Atemlos%20Durch%20Die%20Nacht%20(Album%20Version).mp3"/>
+    <TRACK TrackID="169" Name="Kernkraft 400 (Intro &amp; Outro)" Artist="Zombie Nation" Genre="Techno" AverageBpm="140.28" Tonality="3A" TotalTime="227" Location="file://localhost/Music/Demo/Zombie%20Nation%20-%20Kernkraft%20400%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="170" Name="Atemlos Durch Die Nacht (A Class Kuduro Floor Mix)" Artist="Helene Fischer" Genre="Pop" AverageBpm="128.00" Tonality="1B" TotalTime="310" Location="file://localhost/Music/Demo/Helene%20Fischer%20-%20Atemlos%20Durch%20Die%20Nacht%20(A%20Class%20Kuduro%20Floor%20Mix).mp3"/>
+    <TRACK TrackID="171" Name="APT vs. Bla Bla Bla (DJ Allan Word Play Edit)" Artist="Bruno Mars, Rosé, Gigi D?Agostino" Genre="Other" AverageBpm="142.86" Tonality="8A" TotalTime="200" Location="file://localhost/Music/Demo/Bruno%20Mars,%20Ros%C3%A9,%20Gigi%20D%3FAgostino%20-%20APT%20vs.%20Bla%20Bla%20Bla%20(DJ%20Allan%20Word%20Play%20Edit).mp3"/>
+    <TRACK TrackID="172" Name="Beggin (DJ Intro)" Artist="Måneskin" Genre="ROCK" AverageBpm="134.01" Tonality="Bm" TotalTime="200" Location="file://localhost/Music/Demo/Ma%CC%8Aneskin%20-%20Beggin%20(DJ%20Intro).mp3"/>
+    <TRACK TrackID="173" Name="Murder On The Dancefloor (Club ReDrum)" Artist="Sophie Ellis Bextor" Genre="Pop" AverageBpm="126.10" Tonality="8A" TotalTime="195" Location="file://localhost/Music/Demo/Sophie%20Ellis%20Bextor%20-%20Murder%20On%20The%20Dancefloor%20(Club%20ReDrum).mp3"/>
+    <TRACK TrackID="174" Name="And we Danced" Artist="Macklemore, Ryan Lewis" Genre="Rap/Hip Hop" AverageBpm="125.00" Tonality="7A" TotalTime="362" Location="file://localhost/Music/Demo/Macklemore,%20Ryan%20Lewis%20-%20And%20we%20Danced.mp3"/>
+    <TRACK TrackID="175" Name="Schüttel deinen Speck" Artist="Peter Fox" Genre="Rap/Hip Hop, Pop" AverageBpm="108.00" Tonality="8A" TotalTime="171" Location="file://localhost/Music/Demo/Peter%20Fox%20-%20Sch%C3%BCttel%20deinen%20Speck.mp3"/>
+    <TRACK TrackID="176" Name="Party Up (Up In Here) (SickMix intro)" Artist="DMX" Genre="Hip-Hop" AverageBpm="102.00" Tonality="11A" TotalTime="259" Location="file://localhost/Music/Demo/DMX%20-%20Party%20Up%20(Up%20In%20Here)%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="177" Name="Macarena" Artist="Los Del Rio" Genre="Pop" AverageBpm="103.15" Tonality="5B" TotalTime="222" Location="file://localhost/Music/Demo/Los%20Del%20Rio%20-%20Macarena.mp3"/>
+    <TRACK TrackID="178" Name="Saturday Night" Artist="Whigfield" Genre="Other" AverageBpm="129.99" Tonality="1B" TotalTime="238" Location="file://localhost/Music/Demo/Whigfield%20-%20Saturday%20Night.mp3"/>
+    <TRACK TrackID="179" Name="Piratentanz" Artist="Willi Girmes" Genre="Deutsche Musik" AverageBpm="120.00" Tonality="7A" TotalTime="196" Location="file://localhost/Music/Demo/Willi%20Girmes%20-%20Piratentanz.mp3"/>
+    <TRACK TrackID="180" Name="One More Time Daft Punk (SickMix intro) (clean)" Artist="Daft Punk" Genre="House" AverageBpm="123.10" Tonality="10B" TotalTime="302" Location="file://localhost/Music/Demo/Daft%20Punk%20-%20One%20More%20Time%20Daft%20Punk%20(SickMix%20intro)%20(clean).mp3"/>
+    <TRACK TrackID="181" Name="Die Immer Lacht (Extended Redrum)" Artist="Stereoact, Kerstin Ott" Genre="Pop" AverageBpm="128.00" Tonality="9A" TotalTime="271" Location="file://localhost/Music/Demo/Stereoact,%20Kerstin%20Ott%20-%20Die%20Immer%20Lacht%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="182" Name="The Fate of Ophelia" Artist="Taylor Swift" Genre="" AverageBpm="124.00" Tonality="7B" TotalTime="226" Location="file://localhost/Music/Demo/Taylor%20Swift%20-%20The%20Fate%20of%20Ophelia.mp3"/>
+    <TRACK TrackID="183" Name="Hung Up (Intro &amp; Outro)" Artist="Madonna" Genre="Pop" AverageBpm="125.00" Tonality="7A" TotalTime="226" Location="file://localhost/Music/Demo/Madonna%20-%20Hung%20Up%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="184" Name="Sara Perché Ti Amo (Index-1 Remix Extended)" Artist="Ricchi e Poveri" Genre="Pop" AverageBpm="126.00" Tonality="12B" TotalTime="321" Location="file://localhost/Music/Demo/Ricchi%20e%20Poveri%20-%20Sara%20Perch%C3%A9%20Ti%20Amo%20(Index-1%20Remix%20Extended).mp3"/>
+    <TRACK TrackID="185" Name="Mädchen Auf Dem Pferd (DJ MiCHA beats Edit)" Artist="Luca-Dante Spadafora, Niklas Dee, Octavian, Peter Ulf Leo Sommer" Genre="DJ Edits" AverageBpm="170.00" Tonality="8A" TotalTime="192" Location="file://localhost/Music/Demo/Luca-Dante%20Spadafora,%20Niklas%20Dee,%20Octavian,%20Peter%20Ulf%20Leo%20Sommer%20-%20M%C3%A4dchen%20Auf%20Dem%20Pferd%20(DJ%20MiCHA%20beats%20Edit).mp3"/>
+    <TRACK TrackID="186" Name="Played-A-Live (The Bongo Song) vs. Cotton Eye Joe (Sg 2in1 Remix)" Artist="Safri Duo, Rednex" Genre="Dance" AverageBpm="134.05" Tonality="8A" TotalTime="348" Location="file://localhost/Music/Demo/Safri%20Duo,%20Rednex%20-%20Played-A-Live%20(The%20Bongo%20Song)%20vs.%20Cotton%20Eye%20Joe%20(Sg%202in1%20Remix).mp3"/>
+    <TRACK TrackID="187" Name="Thunderstruck (Intro &amp; Outro)" Artist="AC/DC" Genre="Rock" AverageBpm="135.17" Tonality="10A" TotalTime="315" Location="file://localhost/Music/Demo/AC/DC%20-%20Thunderstruck%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="188" Name="LEBENSLANG (HBz Remix)" Artist="Tream &amp; treamiboii" Genre="Dance" AverageBpm="139.21" Tonality="3A" TotalTime="170" Location="file://localhost/Music/Demo/Tream%20%26%20treamiboii%20-%20LEBENSLANG%20(HBz%20Remix).mp3"/>
+    <TRACK TrackID="189" Name="Gimme! Gimme! Gimme! (HBz &amp; Alex Meyer Bounce Remix)" Artist="ABBA" Genre="Disco" AverageBpm="140.00" Tonality="7A" TotalTime="211" Location="file://localhost/Music/Demo/ABBA%20-%20Gimme!%20Gimme!%20Gimme!%20(HBz%20%26%20Alex%20Meyer%20Bounce%20Remix).mp3"/>
+    <TRACK TrackID="190" Name="Miss You" Artist="Oliver Tree, Robin Schulz" Genre="Dance, Pop" AverageBpm="145.00" Tonality="11B" TotalTime="206" Location="file://localhost/Music/Demo/Oliver%20Tree,%20Robin%20Schulz%20-%20Miss%20You.mp3"/>
+    <TRACK TrackID="191" Name="Turn Around (5,4,3,2,1) (2022 ReDrum)" Artist="Flo Rida" Genre="Hip-Hop" AverageBpm="128.00" Tonality="1A" TotalTime="225" Location="file://localhost/Music/Demo/Flo%20Rida%20-%20Turn%20Around%20(5,4,3,2,1)%20(2022%20ReDrum).mp3"/>
+    <TRACK TrackID="192" Name="Low  (Intro &amp; Outro)" Artist="Flo Rida feat. T-Pain" Genre="Pop" AverageBpm="128.00" Tonality="2A" TotalTime="257" Location="file://localhost/Music/Demo/Flo%20Rida%20feat.%20T-Pain%20-%20Low%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="193" Name="Temperature  (Intro &amp; Outro)" Artist="Sean Paul" Genre="Pop" AverageBpm="125.00" Tonality="3A" TotalTime="240" Location="file://localhost/Music/Demo/Sean%20Paul%20-%20Temperature%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="194" Name="Mundian To Bach Ke vs. Hollaback Girl (Piedra Mash)" Artist="Gwen Stefani, Panjabi MC" Genre="Hip-Hop" AverageBpm="105.00" Tonality="2A" TotalTime="146" Location="file://localhost/Music/Demo/Gwen%20Stefani,%20Panjabi%20MC%20-%20Mundian%20To%20Bach%20Ke%20vs.%20Hollaback%20Girl%20(Piedra%20Mash).mp3"/>
+    <TRACK TrackID="195" Name="Ohne Dich vs. State of Mind (Selecta x Bull &amp; Bazz Mashup)" Artist="Alicia Keys, Münchner Freiheit" Genre="Other" AverageBpm="145.00" Tonality="5B" TotalTime="192" Location="file://localhost/Music/Demo/Alicia%20Keys,%20M%C3%BCnchner%20Freiheit%20-%20Ohne%20Dich%20vs.%20State%20of%20Mind%20(Selecta%20x%20Bull%20%26%20Bazz%20Mashup).mp3"/>
+    <TRACK TrackID="196" Name="Let It Be" Artist="Het Feestteam" Genre="Pop" AverageBpm="150.00" Tonality="6B" TotalTime="196" Location="file://localhost/Music/Demo/Het%20Feestteam%20-%20Let%20It%20Be.mp3"/>
+    <TRACK TrackID="197" Name="Lass sie tanzen - Square Dance Remix" Artist="Ali As" Genre="Other" AverageBpm="144.39" Tonality="6A" TotalTime="136" Location="file://localhost/Music/Demo/Ali%20As%20-%20Lass%20sie%20tanzen%20-%20Square%20Dance%20Remix.mp3"/>
+    <TRACK TrackID="198" Name="Herzbeben (Afrojack Remix)" Artist="Helene Fischer" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="128.00" Tonality="12A" TotalTime="287" Location="file://localhost/Music/Demo/Helene%20Fischer%20-%20Herzbeben%20(Afrojack%20Remix).mp3"/>
+    <TRACK TrackID="199" Name="Baila Baila" Artist="Mickie Krause" Genre="Other" AverageBpm="134.36" Tonality="Db" TotalTime="150" Location="file://localhost/Music/Demo/Mickie%20Krause%20-%20Baila%20Baila.mp3"/>
+    <TRACK TrackID="200" Name="Raven Is Leven" Artist="Dv8" Genre="Hardstyle" AverageBpm="160.00" Tonality="10B" TotalTime="181" Location="file://localhost/Music/Demo/Dv8%20-%20Raven%20Is%20Leven.mp3"/>
+    <TRACK TrackID="201" Name="LiEBE AUF DER RÜCKBANK" Artist="FiNCH, Tream &amp; treamiboii" Genre="Rap/Hip Hop" AverageBpm="155.00" Tonality="4A" TotalTime="188" Location="file://localhost/Music/Demo/FiNCH,%20Tream%20%26%20treamiboii%20-%20LiEBE%20AUF%20DER%20R%C3%9CCKBANK.mp3"/>
+    <TRACK TrackID="202" Name="Die Perfekte Welle (Techno Remix)" Artist="Max Fail" Genre="House" AverageBpm="155.44" Tonality="4A" TotalTime="103" Location="file://localhost/Music/Demo/Max%20Fail%20-%20Die%20Perfekte%20Welle%20(Techno%20Remix).mp3"/>
+    <TRACK TrackID="203" Name="Doppelhorn" Artist="Lorenz Büffel" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="139.21" Tonality="1B" TotalTime="199" Location="file://localhost/Music/Demo/Lorenz%20B%C3%BCffel%20-%20Doppelhorn.mp3"/>
+    <TRACK TrackID="204" Name="Maria (I Like It Loud) vs. Explode (Rob &amp; Chris Bootleg)" Artist="Scooter, Rob &amp; Chris" Genre="DJ Edits" AverageBpm="128.00" Tonality="1A" TotalTime="239" Location="file://localhost/Music/Demo/Scooter,%20Rob%20%26%20Chris%20-%20Maria%20(I%20Like%20It%20Loud)%20vs.%20Explode%20(Rob%20%26%20Chris%20Bootleg).mp3"/>
+    <TRACK TrackID="205" Name="Booyah (Intro &amp; Outro)" Artist="Showtek, We Are Loud!, Sonny Wilson" Genre="Dance" AverageBpm="127.66" Tonality="2A" TotalTime="249" Location="file://localhost/Music/Demo/Showtek,%20We%20Are%20Loud!,%20Sonny%20Wilson%20-%20Booyah%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="206" Name="Thank You (Not So Bad) (Extended)" Artist="Dimitri Vegas, Like Mike, Tiësto, Dido, W&amp;W" Genre="Electro, Dance, Pop" AverageBpm="150.00" Tonality="1A" TotalTime="291" Location="file://localhost/Music/Demo/Dimitri%20Vegas,%20Like%20Mike,%20Ti%C3%ABsto,%20Dido,%20W%26W%20-%20Thank%20You%20(Not%20So%20Bad)%20(Extended).mp3"/>
+    <TRACK TrackID="207" Name="Upside Down - Extended Mix" Artist="Robin Schulz" Genre="Other" AverageBpm="145.00" Tonality="3A" TotalTime="211" Location="file://localhost/Music/Demo/Robin%20Schulz%20-%20Upside%20Down%20-%20Extended%20Mix.mp3"/>
+    <TRACK TrackID="208" Name="Perfekte Welle (HBz &amp; Mashup Germany Sky &amp; Sand Bootleg)" Artist="Juli" Genre="DJ Edits" AverageBpm="128.00" Tonality="4A" TotalTime="240" Location="file://localhost/Music/Demo/Juli%20-%20Perfekte%20Welle%20(HBz%20%26%20Mashup%20Germany%20Sky%20%26%20Sand%20Bootleg).mp3"/>
+    <TRACK TrackID="209" Name="Gute Nacht, Freunde" Artist="Reinhard Mey" Genre="Pop" AverageBpm="108.86" Tonality="11B" TotalTime="171" Location="file://localhost/Music/Demo/Reinhard%20Mey%20-%20Gute%20Nacht,%20Freunde.mp3"/>
+    <TRACK TrackID="210" Name="Let's Get Loud (Intro &amp; Outro)" Artist="Jennifer Lopez" Genre="R&amp;B" AverageBpm="131.00" Tonality="5A" TotalTime="265" Location="file://localhost/Music/Demo/Jennifer%20Lopez%20-%20Let's%20Get%20Loud%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="211" Name="AIN'T NOBODY" Artist="David Morales/Romina Johnson" Genre="Electro;Techno;House" AverageBpm="120.00" Tonality="2A" TotalTime="244" Location="file://localhost/Music/Demo/David%20Morales/Romina%20Johnson%20-%20AIN'T%20NOBODY.mp3"/>
+    <TRACK TrackID="212" Name="The Ride" Artist="Me &amp; My Toothbrush" Genre="Electro;Techno;House" AverageBpm="125.00" Tonality="Ebm" TotalTime="189" Location="file://localhost/Music/Demo/Me%20%26%20My%20Toothbrush%20-%20The%20Ride.mp3"/>
+    <TRACK TrackID="213" Name="Gut Genug (Club Mix)" Artist="Jack Dylan" Genre="Dance,Musik" AverageBpm="132.00" Tonality="Em" TotalTime="129" Location="file://localhost/Music/Demo/Jack%20Dylan%20-%20Gut%20Genug%20(Club%20Mix).mp3"/>
+    <TRACK TrackID="214" Name="Beauty and A Beat (Rivas Remix)" Artist="Justin Bieber, Nicki Minaj" Genre="House" AverageBpm="130.00" Tonality="Abm" TotalTime="284" Location="file://localhost/Music/Demo/Justin%20Bieber,%20Nicki%20Minaj%20-%20Beauty%20and%20A%20Beat%20(Rivas%20Remix).mp3"/>
+    <TRACK TrackID="215" Name="Unwritten (DJ Allan Dance Vers Edit)" Artist="Natasha Bedingfield" Genre="DJ Edits" AverageBpm="126.00" Tonality="7B" TotalTime="215" Location="file://localhost/Music/Demo/Natasha%20Bedingfield%20-%20Unwritten%20(DJ%20Allan%20Dance%20Vers%20Edit).mp3"/>
+    <TRACK TrackID="216" Name="Helikopter 117 (Mach Den Hub Hub Hub) (Extended Schlager Redrum)" Artist="Tobee" Genre="Pop" AverageBpm="132.00" Tonality="11A" TotalTime="295" Location="file://localhost/Music/Demo/Tobee%20-%20Helikopter%20117%20(Mach%20Den%20Hub%20Hub%20Hub)%20(Extended%20Schlager%20Redrum).mp3"/>
+    <TRACK TrackID="217" Name="Weiß der Geier (Extended Schlager 90s Redrum)" Artist="Wolfgang Petry" Genre="Pop" AverageBpm="136.00" Tonality="4B" TotalTime="245" Location="file://localhost/Music/Demo/Wolfgang%20Petry%20-%20Wei%C3%9F%20der%20Geier%20(Extended%20Schlager%2090s%20Redrum).mp3"/>
+    <TRACK TrackID="218" Name="Superheld (House Of House Extended Mix)" Artist="Rob &amp; Chris" Genre="Electro, Dance, Disco" AverageBpm="128.00" Tonality="5B" TotalTime="277" Location="file://localhost/Music/Demo/Rob%20%26%20Chris%20-%20Superheld%20(House%20Of%20House%20Extended%20Mix).mp3"/>
+    <TRACK TrackID="219" Name="Ding (Chuck &amp; Norris Remix)" Artist="Seeed" Genre="Club" AverageBpm="127.66" Tonality="7A" TotalTime="281" Location="file://localhost/Music/Demo/Seeed%20-%20Ding%20(Chuck%20%26%20Norris%20Remix).mp3"/>
+    <TRACK TrackID="220" Name="Explode without me" Artist="Mashup-Germany" Genre="Pop" AverageBpm="128.00" Tonality="1B" TotalTime="200" Location="file://localhost/Music/Demo/Mashup-Germany%20-%20Explode%20without%20me.mp3"/>
+    <TRACK TrackID="221" Name="We Will Booyah" Artist="Showtek vs Queen" Genre="Other" AverageBpm="128.00" Tonality="2A" TotalTime="268" Location="file://localhost/Music/Demo/Showtek%20vs%20Queen%20-%20We%20Will%20Booyah.mp3"/>
+    <TRACK TrackID="222" Name="Maria (I Like It Loud) (Club Mix)" Artist="Scooter vs. Marc Acardipane &amp; Dick Rules" Genre="Dance" AverageBpm="143.00" Tonality="1A" TotalTime="373" Location="file://localhost/Music/Demo/Scooter%20vs.%20Marc%20Acardipane%20%26%20Dick%20Rules%20-%20Maria%20(I%20Like%20It%20Loud)%20(Club%20Mix).mp3"/>
+    <TRACK TrackID="223" Name="Narcotic (Extended Redrum)" Artist="Liquido" Genre="ROCK" AverageBpm="102.00" Tonality="3B" TotalTime="275" Location="file://localhost/Music/Demo/Liquido%20-%20Narcotic%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="224" Name="Macarena (Bayside Boys Remix) (SickMix intro)" Artist="Los Del Rio" Genre="Latin" AverageBpm="104.00" Tonality="1A" TotalTime="286" Location="file://localhost/Music/Demo/Los%20Del%20Rio%20-%20Macarena%20(Bayside%20Boys%20Remix)%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="225" Name="Eye of the Tiger (Dancehall Mix Radio Version)" Artist="Crew 7" Genre="Dance" AverageBpm="109.98" Tonality="5A" TotalTime="258" Location="file://localhost/Music/Demo/Crew%207%20-%20Eye%20of%20the%20Tiger%20(Dancehall%20Mix%20Radio%20Version).mp3"/>
+    <TRACK TrackID="226" Name="Shut Up and Dance Walk The Moon (SickMix intro) (clean)" Artist="Walk The Moon" Genre="Rock" AverageBpm="128.00" Tonality="3B" TotalTime="221" Location="file://localhost/Music/Demo/Walk%20The%20Moon%20-%20Shut%20Up%20and%20Dance%20Walk%20The%20Moon%20(SickMix%20intro)%20(clean).mp3"/>
+    <TRACK TrackID="227" Name="Mr. Brightside (Intro &amp; Outro)" Artist="The Killers" Genre="Rock" AverageBpm="148.00" Tonality="3B" TotalTime="235" Location="file://localhost/Music/Demo/The%20Killers%20-%20Mr.%20Brightside%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="228" Name="Im Ascheregen" Artist="Casper" Genre="Rap/Hip Hop, Deutsche Musik" AverageBpm="142.00" Tonality="10A" TotalTime="302" Location="file://localhost/Music/Demo/Casper%20-%20Im%20Ascheregen.mp3"/>
+    <TRACK TrackID="229" Name="Can't Hold Us" Artist="MacKlemore feat. Ray Dalton" Genre="Hip-Hop/Rap" AverageBpm="146.00" Tonality="9A" TotalTime="264" Location="file://localhost/Music/Demo/MacKlemore%20feat.%20Ray%20Dalton%20-%20Can't%20Hold%20Us.mp3"/>
+    <TRACK TrackID="230" Name="LiEBE Auf Der Rueckbank" Artist="FiNCH, Tream" Genre="Ballermann" AverageBpm="155.00" Tonality="5A" TotalTime="222" Location="file://localhost/Music/Demo/FiNCH,%20Tream%20-%20LiEBE%20Auf%20Der%20Rueckbank.mp3"/>
+    <TRACK TrackID="231" Name="Can't Hold Us  (Intro &amp; Outro)" Artist="Macklemore &amp; Ryan Lewis feat. Ray Dalton" Genre="Hip-Hop/Rap" AverageBpm="146.00" Tonality="9A" TotalTime="279" Location="file://localhost/Music/Demo/Macklemore%20%26%20Ryan%20Lewis%20feat.%20Ray%20Dalton%20-%20Can't%20Hold%20Us%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="232" Name="Der hellste Stern (Boehmischer Traum) (Xtreme Sound Remix)" Artist="DJ oetzi" Genre="Schlager &amp; Volksmusik" AverageBpm="128.00" Tonality="6B" TotalTime="191" Location="file://localhost/Music/Demo/DJ%20oetzi%20-%20Der%20hellste%20Stern%20(Boehmischer%20Traum)%20(Xtreme%20Sound%20Remix).mp3"/>
+    <TRACK TrackID="233" Name="Ich liebe das Leben (Stereoact #Remix)" Artist="Vicky Leandros" Genre="Schlager &amp; Volksmusik" AverageBpm="128.00" Tonality="12B" TotalTime="203" Location="file://localhost/Music/Demo/Vicky%20Leandros%20-%20Ich%20liebe%20das%20Leben%20(Stereoact%20%23Remix).mp3"/>
+    <TRACK TrackID="234" Name="Roller (Extended Redrum)" Artist="Apache 207" Genre="German Hip-Hop" AverageBpm="128.00" Tonality="3A" TotalTime="208" Location="file://localhost/Music/Demo/Apache%20207%20-%20Roller%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="235" Name="Somebody (2024)" Artist="Gotye, FISHER, Chris Lake, Kimbra, Sante Sansone" Genre="Dance" AverageBpm="130.00" Tonality="7A" TotalTime="153" Location="file://localhost/Music/Demo/Gotye,%20FISHER,%20Chris%20Lake,%20Kimbra,%20Sante%20Sansone%20-%20Somebody%20(2024).mp3"/>
+    <TRACK TrackID="236" Name="Ein bisschen Aroma (Stereoact Extended Mix)" Artist="Roger Whittaker" Genre="Lounge" AverageBpm="130.00" Tonality="10B" TotalTime="219" Location="file://localhost/Music/Demo/Roger%20Whittaker%20-%20Ein%20bisschen%20Aroma%20(Stereoact%20Extended%20Mix).mp3"/>
+    <TRACK TrackID="237" Name="Sandstorm (Jay Thomas voices in my head Hype Intro)" Artist="Darude" Genre="Dance" AverageBpm="136.36" Tonality="9A" TotalTime="148" Location="file://localhost/Music/Demo/Darude%20-%20Sandstorm%20(Jay%20Thomas%20voices%20in%20my%20head%20Hype%20Intro).mp3"/>
+    <TRACK TrackID="238" Name="Hyper Hyper" Artist="Scooter" Genre="Dance" AverageBpm="159.57" Tonality="1A" TotalTime="212" Location="file://localhost/Music/Demo/Scooter%20-%20Hyper%20Hyper.mp3"/>
+    <TRACK TrackID="239" Name="Denkmal (Extended Redrum)" Artist="Wir Sind Helden" Genre="Pop" AverageBpm="95.00" Tonality="12B" TotalTime="250" Location="file://localhost/Music/Demo/Wir%20Sind%20Helden%20-%20Denkmal%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="240" Name="Pocahontas (Gestört Aber Geil Remix) (DJ MiCHA beats Q-Edit)" Artist="AnnenMayKantereit" Genre="DJ Edits" AverageBpm="124.54" Tonality="8A" TotalTime="255" Location="file://localhost/Music/Demo/AnnenMayKantereit%20-%20Pocahontas%20(Gest%C3%B6rt%20Aber%20Geil%20Remix)%20(DJ%20MiCHA%20beats%20Q-Edit).mp3"/>
+    <TRACK TrackID="241" Name="Das Geht Atemlos (Mark Ves Mix)" Artist="DJ Düse Bootleg" Genre="Other" AverageBpm="128.00" Tonality="Abm" TotalTime="272" Location="file://localhost/Music/Demo/DJ%20D%C3%BCse%20Bootleg%20-%20Das%20Geht%20Atemlos%20(Mark%20Ves%20Mix).mp3"/>
+    <TRACK TrackID="242" Name="Abenteuerland" Artist="Pur" Genre="Pop" AverageBpm="147.20" Tonality="Gm" TotalTime="280" Location="file://localhost/Music/Demo/Pur%20-%20Abenteuerland.mp3"/>
+    <TRACK TrackID="243" Name="Hey Baby (Uhh, Ahh)" Artist="DJ Ötzi" Genre="Dance" AverageBpm="134.99" Tonality="Fm" TotalTime="216" Location="file://localhost/Music/Demo/DJ%20%C3%96tzi%20-%20Hey%20Baby%20(Uhh,%20Ahh).mp3"/>
+    <TRACK TrackID="244" Name="Verdammt Ich lieb' dich" Artist="Matthias Reim" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="100.00" Tonality="Am" TotalTime="207" Location="file://localhost/Music/Demo/Matthias%20Reim%20-%20Verdammt%20Ich%20lieb'%20dich.mp3"/>
+    <TRACK TrackID="245" Name="Skandal Im Sperrbezirk (DJ MiCHA beats Edit)" Artist="Spider Murphy Gang" Genre="DJ Edits" AverageBpm="90.91" Tonality="D" TotalTime="232" Location="file://localhost/Music/Demo/Spider%20Murphy%20Gang%20-%20Skandal%20Im%20Sperrbezirk%20(DJ%20MiCHA%20beats%20Edit).mp3"/>
+    <TRACK TrackID="246" Name="Schatzi schenk mir ein Foto" Artist="Mickie Krause" Genre="Schlager &amp; Volksmusik, Pop, Deutsche Musik" AverageBpm="140.00" Tonality="Dbm" TotalTime="204" Location="file://localhost/Music/Demo/Mickie%20Krause%20-%20Schatzi%20schenk%20mir%20ein%20Foto.mp3"/>
+    <TRACK TrackID="247" Name="Herzbeben (Extended)" Artist="Helene Fischer" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="128.00" Tonality="Dbm" TotalTime="280" Location="file://localhost/Music/Demo/Helene%20Fischer%20-%20Herzbeben%20(Extended).mp3"/>
+    <TRACK TrackID="248" Name="Wahnsinn" Artist="Wolfgang Petry" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="136.04" Tonality="A" TotalTime="201" Location="file://localhost/Music/Demo/Wolfgang%20Petry%20-%20Wahnsinn.mp3"/>
+    <TRACK TrackID="249" Name="We Are Family (Hugo Villanova Edit)" Artist="Sister Sledge" Genre="DJ Edits" AverageBpm="121.00" Tonality="F#m" TotalTime="257" Location="file://localhost/Music/Demo/Sister%20Sledge%20-%20We%20Are%20Family%20(Hugo%20Villanova%20Edit).mp3"/>
+    <TRACK TrackID="250" Name="Umbrella (Radio Edit)" Artist="Rihanna;Jay-Z" Genre="Hip-Hop/Rap" AverageBpm="174.00" Tonality="Db" TotalTime="257" Location="file://localhost/Music/Demo/Rihanna;Jay-Z%20-%20Umbrella%20(Radio%20Edit).mp3"/>
+    <TRACK TrackID="251" Name="Highway to Hell" Artist="AC;DC" Genre="ROCK" AverageBpm="115.38" Tonality="A" TotalTime="208" Location="file://localhost/Music/Demo/AC;DC%20-%20Highway%20to%20Hell.mp3"/>
+    <TRACK TrackID="252" Name="It's My Life" Artist="Bon Jovi" Genre="Rock" AverageBpm="119.99" Tonality="Cm" TotalTime="224" Location="file://localhost/Music/Demo/Bon%20Jovi%20-%20It's%20My%20Life.mp3"/>
+    <TRACK TrackID="253" Name="Summer of 69 (DJ Iván Santana Remix)" Artist="Bryan Adams" Genre="Rock" AverageBpm="128.00" Tonality="D" TotalTime="280" Location="file://localhost/Music/Demo/Bryan%20Adams%20-%20Summer%20of%2069%20(DJ%20Iv%C3%A1n%20Santana%20Remix).mp3"/>
+    <TRACK TrackID="254" Name="Are You Gonna Go My Way (Intro &amp; Outro)" Artist="Lenny Kravitz" Genre="ROCK" AverageBpm="129.04" Tonality="Em" TotalTime="239" Location="file://localhost/Music/Demo/Lenny%20Kravitz%20-%20Are%20You%20Gonna%20Go%20My%20Way%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="255" Name="Livin' on a Prayer (Intro &amp; Outro)" Artist="Bon Jovi" Genre="ROCK" AverageBpm="123.00" Tonality="Em" TotalTime="258" Location="file://localhost/Music/Demo/Bon%20Jovi%20-%20Livin'%20on%20a%20Prayer%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="256" Name="Maneater (Intro &amp; Outro)" Artist="Nelly Furtado" Genre="Rock" AverageBpm="133.00" Tonality="Bbm" TotalTime="214" Location="file://localhost/Music/Demo/Nelly%20Furtado%20-%20Maneater%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="257" Name="Pocahontas (Gestört aber Geil Remix)" Artist="AnnenMayKantereit" Genre="Rock" AverageBpm="125.00" Tonality="Am" TotalTime="218" Location="file://localhost/Music/Demo/AnnenMayKantereit%20-%20Pocahontas%20(Gest%C3%B6rt%20aber%20Geil%20Remix).mp3"/>
+    <TRACK TrackID="258" Name="Blinded By the Light (Radio Cut)" Artist="Michael Mind" Genre="Pop" AverageBpm="128.06" Tonality="Gm" TotalTime="164" Location="file://localhost/Music/Demo/Michael%20Mind%20-%20Blinded%20By%20the%20Light%20(Radio%20Cut).mp3"/>
+    <TRACK TrackID="259" Name="I Kissed A Girl (Intro &amp; Outro)" Artist="Katy Perry" Genre="Rock" AverageBpm="130.00" Tonality="Am" TotalTime="205" Location="file://localhost/Music/Demo/Katy%20Perry%20-%20I%20Kissed%20A%20Girl%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="260" Name="Believe (Yan 90s Extended Mix) 133Bpm Clean" Artist="Cher" Genre="Electronic" AverageBpm="133.00" Tonality="F#" TotalTime="263" Location="file://localhost/Music/Demo/Cher%20-%20Believe%20(Yan%2090s%20Extended%20Mix)%20133Bpm%20Clean.mp3"/>
+    <TRACK TrackID="261" Name="Thriller (80s Dance ReDrum)" Artist="Michael Jackson" Genre="Disco" AverageBpm="125.00" Tonality="Dbm" TotalTime="325" Location="file://localhost/Music/Demo/Michael%20Jackson%20-%20Thriller%20(80s%20Dance%20ReDrum).mp3"/>
+    <TRACK TrackID="262" Name="I'm Good (Blue) (SickMix intro)" Artist="David Guetta, Bebe Rexha" Genre="Dance" AverageBpm="128.00" Tonality="Gm" TotalTime="187" Location="file://localhost/Music/Demo/David%20Guetta,%20Bebe%20Rexha%20-%20I'm%20Good%20(Blue)%20(SickMix%20intro).mp3"/>
+    <TRACK TrackID="263" Name="Perfekte Welle (Extended Redrum)" Artist="Juli" Genre="Rock" AverageBpm="112.00" Tonality="Fm" TotalTime="214" Location="file://localhost/Music/Demo/Juli%20-%20Perfekte%20Welle%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="264" Name="Shut Up and Dance" Artist="Walk the Moon" Genre="ROCK" AverageBpm="128.00" Tonality="Db" TotalTime="199" Location="file://localhost/Music/Demo/Walk%20the%20Moon%20-%20Shut%20Up%20and%20Dance.mp3"/>
+    <TRACK TrackID="265" Name="Ein Song Reicht (Extended Redrum)" Artist="Kraftklub" Genre="Hip-Hop" AverageBpm="168.00" Tonality="Am" TotalTime="273" Location="file://localhost/Music/Demo/Kraftklub%20-%20Ein%20Song%20Reicht%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="266" Name="Männer (Extended Redrum)" Artist="Herbert Grönemeyer" Genre="Rock" AverageBpm="94.00" Tonality="F#m" TotalTime="319" Location="file://localhost/Music/Demo/Herbert%20Gr%C3%B6nemeyer%20-%20M%C3%A4nner%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="267" Name="I Love Rock 'N Roll" Artist="Joan Jett and the Blackhearts" Genre="Rock" AverageBpm="94.00" Tonality="E" TotalTime="175" Location="file://localhost/Music/Demo/Joan%20Jett%20and%20the%20Blackhearts%20-%20I%20Love%20Rock%20'N%20Roll.mp3"/>
+    <TRACK TrackID="268" Name="Nur Ein Wort (Extended Redrum)" Artist="Wir Sind Helden" Genre="Rock" AverageBpm="92.50" Tonality="B" TotalTime="297" Location="file://localhost/Music/Demo/Wir%20Sind%20Helden%20-%20Nur%20Ein%20Wort%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="269" Name="Whole Again" Artist="Atomic Kitten" Genre="Rock" AverageBpm="94.00" Tonality="E" TotalTime="185" Location="file://localhost/Music/Demo/Atomic%20Kitten%20-%20Whole%20Again.mp3"/>
+    <TRACK TrackID="270" Name="Vincent (Alle Farben Remix)" Artist="Sarah Connor, Alle Farben" Genre="Pop" AverageBpm="110.89" Tonality="Ab" TotalTime="211" Location="file://localhost/Music/Demo/Sarah%20Connor,%20Alle%20Farben%20-%20Vincent%20(Alle%20Farben%20Remix).mp3"/>
+    <TRACK TrackID="271" Name="Starships  (Intro &amp; Outro)" Artist="Nicki Minaj" Genre="Hip-Hop/Rap" AverageBpm="125.00" Tonality="D" TotalTime="238" Location="file://localhost/Music/Demo/Nicki%20Minaj%20-%20Starships%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="272" Name="Give Me Everything The Love Tonight (Clap-Apella Party Starter)" Artist="Pitbull feat. Ne-Yo vs. Shouse" Genre="Other" AverageBpm="129.00" Tonality="Eb" TotalTime="281" Location="file://localhost/Music/Demo/Pitbull%20feat.%20Ne-Yo%20vs.%20Shouse%20-%20Give%20Me%20Everything%20The%20Love%20Tonight%20(Clap-Apella%20Party%20Starter).mp3"/>
+    <TRACK TrackID="273" Name="Freed From Desire (Intro &amp; Outro)" Artist="Gala" Genre="Dance" AverageBpm="129.00" Tonality="Dm" TotalTime="242" Location="file://localhost/Music/Demo/Gala%20-%20Freed%20From%20Desire%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="274" Name="Du Idiot (Stereoact Extended Remix)" Artist="Michelle, Matthias Reim" Genre="Pop" AverageBpm="135.00" Tonality="Abm" TotalTime="267" Location="file://localhost/Music/Demo/Michelle,%20Matthias%20Reim%20-%20Du%20Idiot%20(Stereoact%20Extended%20Remix).mp3"/>
+    <TRACK TrackID="275" Name="Nur Noch Schuhe an (Party-Version 2013)" Artist="Mickie Krause" Genre="Pop" AverageBpm="146.34" Tonality="B" TotalTime="221" Location="file://localhost/Music/Demo/Mickie%20Krause%20-%20Nur%20Noch%20Schuhe%20an%20(Party-Version%202013).mp3"/>
+    <TRACK TrackID="276" Name="Ich war noch niemals in New York" Artist="Udo Jürgens" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="130.43" Tonality="Ab" TotalTime="284" Location="file://localhost/Music/Demo/Udo%20J%C3%BCrgens%20-%20Ich%20war%20noch%20niemals%20in%20New%20York.mp3"/>
+    <TRACK TrackID="277" Name="aNYway (Radio Edit)" Artist="Armand Van Helden &amp; A-TRAK Present Duck Sauce" Genre="House" AverageBpm="128.00" Tonality="5A" TotalTime="203" Location="file://localhost/Music/Demo/Armand%20Van%20Helden%20%26%20A-TRAK%20Present%20Duck%20Sauce%20-%20aNYway%20(Radio%20Edit).mp3"/>
+    <TRACK TrackID="278" Name="Kids (Intro &amp; Outro)" Artist="MGMT" Genre="Pop" AverageBpm="123.00" Tonality="11B" TotalTime="252" Location="file://localhost/Music/Demo/MGMT%20-%20Kids%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="279" Name="Music Sounds Better With You (Intro &amp; Outro)" Artist="Stardust" Genre="House" AverageBpm="124.00" Tonality="9A" TotalTime="321" Location="file://localhost/Music/Demo/Stardust%20-%20Music%20Sounds%20Better%20With%20You%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="280" Name="Stolen Dance" Artist="Milky Chance" Genre="Alternative, Indie Pop, Indie Rock, Pop" AverageBpm="114.18" Tonality="1A" TotalTime="313" Location="file://localhost/Music/Demo/Milky%20Chance%20-%20Stolen%20Dance.mp3"/>
+    <TRACK TrackID="281" Name="One More Time (Intro &amp; Outro)" Artist="Daft Punk" Genre="House" AverageBpm="123.16" Tonality="10B" TotalTime="263" Location="file://localhost/Music/Demo/Daft%20Punk%20-%20One%20More%20Time%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="282" Name="Lady (Hear Me Tonight) (Intro &amp; Outro)" Artist="MoDJo" Genre="House" AverageBpm="126.00" Tonality="3B" TotalTime="239" Location="file://localhost/Music/Demo/MoDJo%20-%20Lady%20(Hear%20Me%20Tonight)%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="283" Name="Closer" Artist="Ne-Yo" Genre="R&amp;B" AverageBpm="126.00" Tonality="9A" TotalTime="234" Location="file://localhost/Music/Demo/Ne-Yo%20-%20Closer.mp3"/>
+    <TRACK TrackID="284" Name="SexyBack" Artist="Justin Timberlake, Timbaland" Genre="Pop" AverageBpm="116.89" Tonality="8A" TotalTime="265" Location="file://localhost/Music/Demo/Justin%20Timberlake,%20Timbaland%20-%20SexyBack.mp3"/>
+    <TRACK TrackID="285" Name="36 Grad" Artist="2raumwohnung" Genre="Dance, Pop" AverageBpm="126.00" Tonality="8A" TotalTime="230" Location="file://localhost/Music/Demo/2raumwohnung%20-%2036%20Grad.mp3"/>
+    <TRACK TrackID="286" Name="Tanz der Moleküle" Artist="Mia." Genre="Pop" AverageBpm="126.00" Tonality="10A" TotalTime="240" Location="file://localhost/Music/Demo/Mia.%20-%20Tanz%20der%20Molek%C3%BCle.mp3"/>
+    <TRACK TrackID="287" Name="Elektrisches Gefühl" Artist="Juli" Genre="Pop" AverageBpm="176.00" Tonality="7A" TotalTime="223" Location="file://localhost/Music/Demo/Juli%20-%20Elektrisches%20Gef%C3%BChl.mp3"/>
+    <TRACK TrackID="288" Name="Jein (Extended Redrum)" Artist="Fettes Brot" Genre="Rap/Hip Hop, Deutsche Musik" AverageBpm="99.00" Tonality="4A" TotalTime="432" Location="file://localhost/Music/Demo/Fettes%20Brot%20-%20Jein%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="289" Name="Stayin' Alive (Intro &amp; Outro)" Artist="Bee Gees" Genre="Disco" AverageBpm="104.12" Tonality="3A" TotalTime="235" Location="file://localhost/Music/Demo/Bee%20Gees%20-%20Stayin'%20Alive%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="290" Name="Little Talks" Artist="Of Monsters and Men" Genre="Other" AverageBpm="103.45" Tonality="3B" TotalTime="266" Location="file://localhost/Music/Demo/Of%20Monsters%20and%20Men%20-%20Little%20Talks.mp3"/>
+    <TRACK TrackID="291" Name="Lebenslang (HBz RMX) (DJ MiCHA beats Edit)" Artist="Tream" Genre="DJ Edits" AverageBpm="140.00" Tonality="3B" TotalTime="191" Location="file://localhost/Music/Demo/Tream%20-%20Lebenslang%20(HBz%20RMX)%20(DJ%20MiCHA%20beats%20Edit).mp3"/>
+    <TRACK TrackID="292" Name="Olivia" Artist="Die Zipfelbuben" Genre="Deutsche Musik" AverageBpm="142.00" Tonality="3A" TotalTime="180" Location="file://localhost/Music/Demo/Die%20Zipfelbuben%20-%20Olivia.mp3"/>
+    <TRACK TrackID="293" Name="Alles neu" Artist="Peter Fox" Genre="Rap/Hip Hop, Pop" AverageBpm="133.96" Tonality="5B" TotalTime="271" Location="file://localhost/Music/Demo/Peter%20Fox%20-%20Alles%20neu.mp3"/>
+    <TRACK TrackID="294" Name="Baby, You're the One (Extended Mix)" Artist="Salvatore Mancuso, Max Niklas" Genre="Pop" AverageBpm="126.00" Tonality="1B" TotalTime="193" Location="file://localhost/Music/Demo/Salvatore%20Mancuso,%20Max%20Niklas%20-%20Baby,%20You're%20the%20One%20(Extended%20Mix).mp3"/>
+    <TRACK TrackID="295" Name="Unwritten  (Intro &amp; Outro)" Artist="Natasha Bedingfield" Genre="Pop" AverageBpm="100.00" Tonality="7B" TotalTime="286" Location="file://localhost/Music/Demo/Natasha%20Bedingfield%20-%20Unwritten%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="296" Name="Simarik (Serg Kiss Remix)" Artist="Tarkan" Genre="Pop" AverageBpm="108.00" Tonality="8A" TotalTime="223" Location="file://localhost/Music/Demo/Tarkan%20-%20Simarik%20(Serg%20Kiss%20Remix).mp3"/>
+    <TRACK TrackID="297" Name="Ding (Extended Redrum)" Artist="Seeed" Genre="Reggae" AverageBpm="117.00" Tonality="7A" TotalTime="261" Location="file://localhost/Music/Demo/Seeed%20-%20Ding%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="298" Name="Prayer in C (Robin Schulz Radio Edit)" Artist="Lilly Wood &amp; the Prick, Robin Schulz" Genre="Dance" AverageBpm="123.00" Tonality="7A" TotalTime="189" Location="file://localhost/Music/Demo/Lilly%20Wood%20%26%20the%20Prick,%20Robin%20Schulz%20-%20Prayer%20in%20C%20(Robin%20Schulz%20Radio%20Edit).mp3"/>
+    <TRACK TrackID="299" Name="Galvanize" Artist="The Chemical Brothers" Genre="Dance" AverageBpm="103.00" Tonality="6A" TotalTime="393" Location="file://localhost/Music/Demo/The%20Chemical%20Brothers%20-%20Galvanize.mp3"/>
+    <TRACK TrackID="300" Name="Kimnotyze (DJ MiCHA beats Edit)" Artist="DJ Tomekk, Lil Kim, Trooper Da Don" Genre="DJ Edits" AverageBpm="104.99" Tonality="5A" TotalTime="228" Location="file://localhost/Music/Demo/DJ%20Tomekk,%20Lil%20Kim,%20Trooper%20Da%20Don%20-%20Kimnotyze%20(DJ%20MiCHA%20beats%20Edit).mp3"/>
+    <TRACK TrackID="301" Name="Dirrty (Intro &amp; Outro)" Artist="Christina Aguilera, Redman" Genre="Other" AverageBpm="100.02" Tonality="6A" TotalTime="309" Location="file://localhost/Music/Demo/Christina%20Aguilera,%20Redman%20-%20Dirrty%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="302" Name="Oh Jonny (Extended Redrum)" Artist="Jan Delay" Genre="Hip-Hop" AverageBpm="90.96" Tonality="8A" TotalTime="208" Location="file://localhost/Music/Demo/Jan%20Delay%20-%20Oh%20Jonny%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="303" Name="The Glen - Levi Heron Edit" Artist="Levi Heron" Genre="Other" AverageBpm="150.00" Tonality="10B" TotalTime="173" Location="file://localhost/Music/Demo/Levi%20Heron%20-%20The%20Glen%20-%20Levi%20Heron%20Edit.mp3"/>
+    <TRACK TrackID="304" Name="Atlantis" Artist="Netherworld" Genre="Other" AverageBpm="165.00" Tonality="Cm" TotalTime="387" Location="file://localhost/Music/Demo/Netherworld%20-%20Atlantis.mp3"/>
+    <TRACK TrackID="305" Name="Zucker" Artist="Peter Fox, Vanessa Mason" Genre="Rap/Hip Hop, Pop" AverageBpm="145.40" Tonality="9A" TotalTime="191" Location="file://localhost/Music/Demo/Peter%20Fox,%20Vanessa%20Mason%20-%20Zucker.mp3"/>
+    <TRACK TrackID="306" Name="Ich will nicht nach Berlin" Artist="Kraftklub" Genre="Rock" AverageBpm="153.01" Tonality="11A" TotalTime="208" Location="file://localhost/Music/Demo/Kraftklub%20-%20Ich%20will%20nicht%20nach%20Berlin.mp3"/>
+    <TRACK TrackID="307" Name="Jambalaya (Drunken Masters Remix)" Artist="Casper, Drunken Masters" Genre="Rap/Hip Hop" AverageBpm="174.00" Tonality="5A" TotalTime="253" Location="file://localhost/Music/Demo/Casper,%20Drunken%20Masters%20-%20Jambalaya%20(Drunken%20Masters%20Remix).mp3"/>
+    <TRACK TrackID="308" Name="Du schreibst Geschichte" Artist="Madsen" Genre="Rock" AverageBpm="164.99" Tonality="4A" TotalTime="191" Location="file://localhost/Music/Demo/Madsen%20-%20Du%20schreibst%20Geschichte.mp3"/>
+    <TRACK TrackID="309" Name="QUE CE SOIT CLAIR" Artist="Paul Kalkbrenner/Stromae" Genre="" AverageBpm="130.00" Tonality="4A" TotalTime="176" Location="file://localhost/Music/Demo/Paul%20Kalkbrenner/Stromae%20-%20QUE%20CE%20SOIT%20CLAIR.mp3"/>
+    <TRACK TrackID="310" Name="Just Try It" Artist="Baccus" Genre="Electro;Techno;House;Dance" AverageBpm="128.00" Tonality="11A" TotalTime="176" Location="file://localhost/Music/Demo/Baccus%20-%20Just%20Try%20It.mp3"/>
+    <TRACK TrackID="311" Name="Trippin (Intro Edit) 175" Artist="Bunt., Mapei" Genre="" AverageBpm="175.00" Tonality="D" TotalTime="219" Location="file://localhost/Music/Demo/Bunt.,%20Mapei%20-%20Trippin%20(Intro%20Edit)%20175.mp3"/>
+    <TRACK TrackID="312" Name="More Than Friends X Moving To The Sun (Switch Disco Mashup) (Clean) 125" Artist="James Hype, Kelli-Leigh X Hugel" Genre="" AverageBpm="125.00" Tonality="Fm" TotalTime="184" Location="file://localhost/Music/Demo/James%20Hype,%20Kelli-Leigh%20X%20Hugel%20-%20More%20Than%20Friends%20X%20Moving%20To%20The%20Sun%20(Switch%20Disco%20Mashup)%20(Clean)%20125.mp3"/>
+    <TRACK TrackID="313" Name="Free Your Mind X Tell Me Why (Switch Disco Mashup) (Clean) 128" Artist="Prospa, Cloonee X Supermode" Genre="" AverageBpm="127.93" Tonality="Bm" TotalTime="189" Location="file://localhost/Music/Demo/Prospa,%20Cloonee%20X%20Supermode%20-%20Free%20Your%20Mind%20X%20Tell%20Me%20Why%20(Switch%20Disco%20Mashup)%20(Clean)%20128.mp3"/>
+    <TRACK TrackID="314" Name="Sweet Home Alabama (70s Rock ReDrum)" Artist="Lynyrd Skynyrd" Genre="Rock" AverageBpm="98.00" Tonality="9B" TotalTime="222" Location="file://localhost/Music/Demo/Lynyrd%20Skynyrd%20-%20Sweet%20Home%20Alabama%20(70s%20Rock%20ReDrum).mp3"/>
+    <TRACK TrackID="315" Name="Y.M.C.A." Artist="Village People" Genre="Dance, Pop" AverageBpm="127.66" Tonality="2A" TotalTime="241" Location="file://localhost/Music/Demo/Village%20People%20-%20Y.M.C.A..mp3"/>
+    <TRACK TrackID="316" Name="Chöre (Extended Redrum)" Artist="Mark Forster" Genre="Pop" AverageBpm="130.25" Tonality="11A" TotalTime="275" Location="file://localhost/Music/Demo/Mark%20Forster%20-%20Ch%C3%B6re%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="317" Name="Urlaub auf Balkonien (Megamix)" Artist="Einfach Freddy" Genre="No Genre" AverageBpm="123.16" Tonality="2A" TotalTime="2790" Location="file://localhost/Music/Demo/Einfach%20Freddy%20-%20Urlaub%20auf%20Balkonien%20(Megamix).mp3"/>
+    <TRACK TrackID="318" Name="Call Me Maybe  (Intro &amp; Outro)" Artist="Carly Rae Jepsen" Genre="Pop" AverageBpm="120.00" Tonality="9B" TotalTime="220" Location="file://localhost/Music/Demo/Carly%20Rae%20Jepsen%20-%20Call%20Me%20Maybe%20%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="319" Name="Since U Been Gone (Intro &amp; Outro)" Artist="Kelly Clarkson" Genre="Pop" AverageBpm="131.19" Tonality="9A" TotalTime="214" Location="file://localhost/Music/Demo/Kelly%20Clarkson%20-%20Since%20U%20Been%20Gone%20(Intro%20%26%20Outro).mp3"/>
+    <TRACK TrackID="320" Name="Get Low (IntroAcapella Outro Short Edit Clean)" Artist="Flo Rida feat T Pain vs DJ Rue Hefner" Genre="Pop" AverageBpm="128.00" Tonality="2A" TotalTime="166" Location="file://localhost/Music/Demo/Flo%20Rida%20feat%20T%20Pain%20vs%20DJ%20Rue%20Hefner%20-%20Get%20Low%20(IntroAcapella%20Outro%20Short%20Edit%20Clean).mp3"/>
+    <TRACK TrackID="321" Name="You Belong With Me vs. My Life (Jay Thomas Extended Mashup)" Artist="Taylor Swift, Steve Aoki, David Guetta, Swae Lee, PnB Rock" Genre="DJ Edits" AverageBpm="124.00" Tonality="1A" TotalTime="228" Location="file://localhost/Music/Demo/Taylor%20Swift,%20Steve%20Aoki,%20David%20Guetta,%20Swae%20Lee,%20PnB%20Rock%20-%20You%20Belong%20With%20Me%20vs.%20My%20Life%20(Jay%20Thomas%20Extended%20Mashup).mp3"/>
+    <TRACK TrackID="322" Name="Dancing Circus" Artist="Brisby, Jingles" Genre="Dance" AverageBpm="130.00" Tonality="8B" TotalTime="247" Location="file://localhost/Music/Demo/Brisby,%20Jingles%20-%20Dancing%20Circus.mp3"/>
+    <TRACK TrackID="323" Name="I Gotta Feeling (ReDrum) V2" Artist="The Black Eyed Peas" Genre="Hip-Hop/Rap" AverageBpm="128.00" Tonality="9B" TotalTime="317" Location="file://localhost/Music/Demo/The%20Black%20Eyed%20Peas%20-%20I%20Gotta%20Feeling%20(ReDrum)%20V2.mp3"/>
+    <TRACK TrackID="324" Name="Hotel Room Service (Extended ReDrum)" Artist="Pitbull" Genre="Hip-Hop" AverageBpm="127.97" Tonality="1A" TotalTime="184" Location="file://localhost/Music/Demo/Pitbull%20-%20Hotel%20Room%20Service%20(Extended%20ReDrum).mp3"/>
+    <TRACK TrackID="325" Name="Bauch Beine Po vs. Rythm is a Dancer (DJ Micha Beats Mash)" Artist="Shirin David, Snap!" Genre="Hip-Hop" AverageBpm="124.54" Tonality="8A" TotalTime="249" Location="file://localhost/Music/Demo/Shirin%20David,%20Snap!%20-%20Bauch%20Beine%20Po%20vs.%20Rythm%20is%20a%20Dancer%20(DJ%20Micha%20Beats%20Mash).mp3"/>
+    <TRACK TrackID="326" Name="Live Is Life (DeeJayOvi ReDrum)" Artist="Opus" Genre="Pop" AverageBpm="94.00" Tonality="8A" TotalTime="291" Location="file://localhost/Music/Demo/Opus%20-%20Live%20Is%20Life%20(DeeJayOvi%20ReDrum).mp3"/>
+    <TRACK TrackID="327" Name="The Afterhours" Artist="Kyle Watson" Genre="Electro, Dance" AverageBpm="128.00" Tonality="7A" TotalTime="191" Location="file://localhost/Music/Demo/Kyle%20Watson%20-%20The%20Afterhours.mp3"/>
+    <TRACK TrackID="328" Name="Mr. Wichtig" Artist="Tic Tac Toe" Genre="Pop" AverageBpm="88.00" Tonality="8B" TotalTime="221" Location="file://localhost/Music/Demo/Tic%20Tac%20Toe%20-%20Mr.%20Wichtig.mp3"/>
+    <TRACK TrackID="329" Name="Kling Klang (Extended 90s Redrum)" Artist="Keimzeit" Genre="Rock" AverageBpm="132.02" Tonality="G" TotalTime="250" Location="file://localhost/Music/Demo/Keimzeit%20-%20Kling%20Klang%20(Extended%2090s%20Redrum).mp3"/>
+    <TRACK TrackID="330" Name="Marmor, Stein und Eisen bricht (Stereoact Remix)" Artist="Drafi Deutscher, Stereoact" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="132.00" Tonality="Em" TotalTime="159" Location="file://localhost/Music/Demo/Drafi%20Deutscher,%20Stereoact%20-%20Marmor,%20Stein%20und%20Eisen%20bricht%20(Stereoact%20Remix).mp3"/>
+    <TRACK TrackID="331" Name="Ich war noch niemals in New York" Artist="Udo Jürgens" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="130.43" Tonality="Fm" TotalTime="284" Location="file://localhost/Music/Demo/Udo%20J%C3%BCrgens%20-%20Ich%20war%20noch%20niemals%20in%20New%20York.mp3"/>
+    <TRACK TrackID="332" Name="Danza Kuduro (DJ Micha Beats Drum Refix)" Artist="Don Omar, Lucenzo" Genre="Latin" AverageBpm="130.06" Tonality="8B" TotalTime="245" Location="file://localhost/Music/Demo/Don%20Omar,%20Lucenzo%20-%20Danza%20Kuduro%20(DJ%20Micha%20Beats%20Drum%20Refix).mp3"/>
+    <TRACK TrackID="333" Name="Dorfkinder (HBz Remix)" Artist="Finnel" Genre="Pop" AverageBpm="144.93" Tonality="1A" TotalTime="179" Location="file://localhost/Music/Demo/Finnel%20-%20Dorfkinder%20(HBz%20Remix).mp3"/>
+    <TRACK TrackID="334" Name="Monsta (Extended Redrum)" Artist="Culcha Candela" Genre="Reggae" AverageBpm="133.00" Tonality="4A" TotalTime="256" Location="file://localhost/Music/Demo/Culcha%20Candela%20-%20Monsta%20(Extended%20Redrum).mp3"/>
+    <TRACK TrackID="335" Name="Major Tom (Voellig losgeloest)" Artist="MXM" Genre="Electro" AverageBpm="165.00" Tonality="9A" TotalTime="240" Location="file://localhost/Music/Demo/MXM%20-%20Major%20Tom%20(Voellig%20losgeloest).mp3"/>
+    <TRACK TrackID="336" Name="Breaking Free (High School Extended Mix)" Artist="Max David" Genre="Pop" AverageBpm="128.00" Tonality="5A" TotalTime="204" Location="file://localhost/Music/Demo/Max%20David%20-%20Breaking%20Free%20(High%20School%20Extended%20Mix).mp3"/>
+    <TRACK TrackID="337" Name="Das geht ab (Wir feiern die ganze Nacht)" Artist="Frauenarzt, Manny Marc" Genre="Hip-Hop" AverageBpm="131.00" Tonality="5A" TotalTime="209" Location="file://localhost/Music/Demo/Frauenarzt,%20Manny%20Marc%20-%20Das%20geht%20ab%20(Wir%20feiern%20die%20ganze%20Nacht).mp3"/>
+    <TRACK TrackID="338" Name="Links Rechts" Artist="Mickie Krause" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="150.00" Tonality="5A" TotalTime="173" Location="file://localhost/Music/Demo/Mickie%20Krause%20-%20Links%20Rechts.mp3"/>
+    <TRACK TrackID="339" Name="Sierra Madre" Artist="Zillertaler Schürzenjäger" Genre="Schlager &amp; Volksmusik, Deutsche Musik" AverageBpm="171.43" Tonality="8B" TotalTime="179" Location="file://localhost/Music/Demo/Zillertaler%20Sch%C3%BCrzenj%C3%A4ger%20-%20Sierra%20Madre.mp3"/>
+    <TRACK TrackID="340" Name="Take Me Home (Purple Disco Machine Remix)" Artist="Monolink, Purple Disco Machine" Genre="Techno" AverageBpm="115.00" Tonality="8A" TotalTime="492" Location="file://localhost/Music/Demo/Monolink,%20Purple%20Disco%20Machine%20-%20Take%20Me%20Home%20(Purple%20Disco%20Machine%20Remix).mp3"/>
+    <TRACK TrackID="341" Name="Waiting 4 Tonite (feat. Betty Judd)" Artist="JKriv/Betty Judd" Genre="Dance;Disco" AverageBpm="115.00" Tonality="5A" TotalTime="220" Location="file://localhost/Music/Demo/JKriv/Betty%20Judd%20-%20Waiting%204%20Tonite%20(feat.%20Betty%20Judd).mp3"/>
+    <TRACK TrackID="342" Name="Aloha Heja He (DJ MiCHA beats ReDrum)" Artist="Achim Reichel" Genre="Rock" AverageBpm="109.96" Tonality="8A" TotalTime="284" Location="file://localhost/Music/Demo/Achim%20Reichel%20-%20Aloha%20Heja%20He%20(DJ%20MiCHA%20beats%20ReDrum).mp3"/>
+    <TRACK TrackID="343" Name="Tirol (HBz Extended Remix)" Artist="DJ Ötzi" Genre="" AverageBpm="134.00" Tonality="12A" TotalTime="204" Location="file://localhost/Music/Demo/DJ%20%C3%96tzi%20-%20Tirol%20(HBz%20Extended%20Remix).mp3"/>
+    <TRACK TrackID="344" Name="Loud &amp; Wild (Narcotic)" Artist="ItaloBrothers" Genre="" AverageBpm="139.53" Tonality="3B" TotalTime="193" Location="file://localhost/Music/Demo/ItaloBrothers%20-%20Loud%20%26%20Wild%20(Narcotic).mp3"/>
+    <TRACK TrackID="345" Name="In Da Club (Intro &amp; Outro)" Artist="50 Cent" Genre="Hip-Hop" AverageBpm="180.00" Tonality="12A" TotalTime="246" Location="file://localhost/Music/Demo/50%20Cent%20-%20In%20Da%20Club%20(Intro%20%26%20Outro).mp3"/>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="1">
+      <NODE Type="0" Name="HISTORY" Count="24">
+        <NODE Name="HISTORY 001" Type="1" KeyType="0" Entries="80">
+          <TRACK Key="1"/>
+          <TRACK Key="2"/>
+          <TRACK Key="3"/>
+          <TRACK Key="4"/>
+          <TRACK Key="5"/>
+          <TRACK Key="2"/>
+          <TRACK Key="6"/>
+          <TRACK Key="2"/>
+          <TRACK Key="4"/>
+          <TRACK Key="7"/>
+          <TRACK Key="8"/>
+          <TRACK Key="9"/>
+          <TRACK Key="10"/>
+          <TRACK Key="11"/>
+          <TRACK Key="12"/>
+          <TRACK Key="13"/>
+          <TRACK Key="14"/>
+          <TRACK Key="15"/>
+          <TRACK Key="16"/>
+          <TRACK Key="17"/>
+          <TRACK Key="18"/>
+          <TRACK Key="19"/>
+          <TRACK Key="20"/>
+          <TRACK Key="21"/>
+          <TRACK Key="22"/>
+          <TRACK Key="23"/>
+          <TRACK Key="24"/>
+          <TRACK Key="25"/>
+          <TRACK Key="26"/>
+          <TRACK Key="27"/>
+          <TRACK Key="28"/>
+          <TRACK Key="29"/>
+          <TRACK Key="30"/>
+          <TRACK Key="31"/>
+          <TRACK Key="32"/>
+          <TRACK Key="33"/>
+          <TRACK Key="34"/>
+          <TRACK Key="33"/>
+          <TRACK Key="33"/>
+          <TRACK Key="35"/>
+          <TRACK Key="36"/>
+          <TRACK Key="37"/>
+          <TRACK Key="38"/>
+          <TRACK Key="39"/>
+          <TRACK Key="40"/>
+          <TRACK Key="41"/>
+          <TRACK Key="40"/>
+          <TRACK Key="42"/>
+          <TRACK Key="43"/>
+          <TRACK Key="44"/>
+          <TRACK Key="45"/>
+          <TRACK Key="46"/>
+          <TRACK Key="4"/>
+          <TRACK Key="47"/>
+          <TRACK Key="48"/>
+          <TRACK Key="49"/>
+          <TRACK Key="50"/>
+          <TRACK Key="49"/>
+          <TRACK Key="46"/>
+          <TRACK Key="51"/>
+          <TRACK Key="52"/>
+          <TRACK Key="53"/>
+          <TRACK Key="54"/>
+          <TRACK Key="55"/>
+          <TRACK Key="56"/>
+          <TRACK Key="57"/>
+          <TRACK Key="58"/>
+          <TRACK Key="59"/>
+          <TRACK Key="59"/>
+          <TRACK Key="60"/>
+          <TRACK Key="61"/>
+          <TRACK Key="62"/>
+          <TRACK Key="63"/>
+          <TRACK Key="64"/>
+          <TRACK Key="65"/>
+          <TRACK Key="66"/>
+          <TRACK Key="67"/>
+          <TRACK Key="68"/>
+          <TRACK Key="69"/>
+          <TRACK Key="68"/>
+        </NODE>
+        <NODE Name="HISTORY 002" Type="1" KeyType="0" Entries="56">
+          <TRACK Key="70"/>
+          <TRACK Key="59"/>
+          <TRACK Key="71"/>
+          <TRACK Key="72"/>
+          <TRACK Key="73"/>
+          <TRACK Key="74"/>
+          <TRACK Key="75"/>
+          <TRACK Key="10"/>
+          <TRACK Key="42"/>
+          <TRACK Key="76"/>
+          <TRACK Key="77"/>
+          <TRACK Key="78"/>
+          <TRACK Key="79"/>
+          <TRACK Key="80"/>
+          <TRACK Key="81"/>
+          <TRACK Key="82"/>
+          <TRACK Key="83"/>
+          <TRACK Key="84"/>
+          <TRACK Key="85"/>
+          <TRACK Key="86"/>
+          <TRACK Key="87"/>
+          <TRACK Key="60"/>
+          <TRACK Key="88"/>
+          <TRACK Key="89"/>
+          <TRACK Key="90"/>
+          <TRACK Key="91"/>
+          <TRACK Key="92"/>
+          <TRACK Key="93"/>
+          <TRACK Key="94"/>
+          <TRACK Key="95"/>
+          <TRACK Key="19"/>
+          <TRACK Key="96"/>
+          <TRACK Key="20"/>
+          <TRACK Key="32"/>
+          <TRACK Key="31"/>
+          <TRACK Key="34"/>
+          <TRACK Key="97"/>
+          <TRACK Key="98"/>
+          <TRACK Key="99"/>
+          <TRACK Key="100"/>
+          <TRACK Key="101"/>
+          <TRACK Key="102"/>
+          <TRACK Key="103"/>
+          <TRACK Key="104"/>
+          <TRACK Key="105"/>
+          <TRACK Key="106"/>
+          <TRACK Key="46"/>
+          <TRACK Key="107"/>
+          <TRACK Key="108"/>
+          <TRACK Key="109"/>
+          <TRACK Key="110"/>
+          <TRACK Key="40"/>
+          <TRACK Key="111"/>
+          <TRACK Key="112"/>
+          <TRACK Key="113"/>
+          <TRACK Key="52"/>
+        </NODE>
+        <NODE Name="HISTORY 003" Type="1" KeyType="0" Entries="53">
+          <TRACK Key="70"/>
+          <TRACK Key="15"/>
+          <TRACK Key="59"/>
+          <TRACK Key="114"/>
+          <TRACK Key="115"/>
+          <TRACK Key="75"/>
+          <TRACK Key="116"/>
+          <TRACK Key="117"/>
+          <TRACK Key="118"/>
+          <TRACK Key="119"/>
+          <TRACK Key="108"/>
+          <TRACK Key="120"/>
+          <TRACK Key="10"/>
+          <TRACK Key="121"/>
+          <TRACK Key="89"/>
+          <TRACK Key="46"/>
+          <TRACK Key="122"/>
+          <TRACK Key="123"/>
+          <TRACK Key="79"/>
+          <TRACK Key="80"/>
+          <TRACK Key="124"/>
+          <TRACK Key="125"/>
+          <TRACK Key="126"/>
+          <TRACK Key="71"/>
+          <TRACK Key="127"/>
+          <TRACK Key="76"/>
+          <TRACK Key="17"/>
+          <TRACK Key="18"/>
+          <TRACK Key="128"/>
+          <TRACK Key="129"/>
+          <TRACK Key="130"/>
+          <TRACK Key="131"/>
+          <TRACK Key="132"/>
+          <TRACK Key="133"/>
+          <TRACK Key="102"/>
+          <TRACK Key="134"/>
+          <TRACK Key="135"/>
+          <TRACK Key="20"/>
+          <TRACK Key="136"/>
+          <TRACK Key="137"/>
+          <TRACK Key="138"/>
+          <TRACK Key="139"/>
+          <TRACK Key="140"/>
+          <TRACK Key="141"/>
+          <TRACK Key="142"/>
+          <TRACK Key="143"/>
+          <TRACK Key="144"/>
+          <TRACK Key="145"/>
+          <TRACK Key="146"/>
+          <TRACK Key="147"/>
+          <TRACK Key="148"/>
+          <TRACK Key="149"/>
+          <TRACK Key="150"/>
+        </NODE>
+        <NODE Name="HISTORY 004" Type="1" KeyType="0" Entries="11">
+          <TRACK Key="46"/>
+          <TRACK Key="151"/>
+          <TRACK Key="152"/>
+          <TRACK Key="91"/>
+          <TRACK Key="153"/>
+          <TRACK Key="154"/>
+          <TRACK Key="155"/>
+          <TRACK Key="156"/>
+          <TRACK Key="157"/>
+          <TRACK Key="158"/>
+          <TRACK Key="159"/>
+        </NODE>
+        <NODE Name="HISTORY 005" Type="1" KeyType="0" Entries="16">
+          <TRACK Key="160"/>
+          <TRACK Key="161"/>
+          <TRACK Key="162"/>
+          <TRACK Key="111"/>
+          <TRACK Key="163"/>
+          <TRACK Key="164"/>
+          <TRACK Key="76"/>
+          <TRACK Key="74"/>
+          <TRACK Key="117"/>
+          <TRACK Key="116"/>
+          <TRACK Key="165"/>
+          <TRACK Key="154"/>
+          <TRACK Key="129"/>
+          <TRACK Key="166"/>
+          <TRACK Key="14"/>
+          <TRACK Key="167"/>
+        </NODE>
+        <NODE Name="HISTORY 006" Type="1" KeyType="0" Entries="4">
+          <TRACK Key="97"/>
+          <TRACK Key="131"/>
+          <TRACK Key="168"/>
+          <TRACK Key="169"/>
+        </NODE>
+        <NODE Name="HISTORY 007" Type="1" KeyType="0" Entries="4">
+          <TRACK Key="170"/>
+          <TRACK Key="42"/>
+          <TRACK Key="171"/>
+          <TRACK Key="172"/>
+        </NODE>
+        <NODE Name="HISTORY 008" Type="1" KeyType="0" Entries="6">
+          <TRACK Key="173"/>
+          <TRACK Key="174"/>
+          <TRACK Key="175"/>
+          <TRACK Key="176"/>
+          <TRACK Key="172"/>
+          <TRACK Key="82"/>
+        </NODE>
+        <NODE Name="HISTORY 009" Type="1" KeyType="0" Entries="62">
+          <TRACK Key="70"/>
+          <TRACK Key="72"/>
+          <TRACK Key="177"/>
+          <TRACK Key="178"/>
+          <TRACK Key="179"/>
+          <TRACK Key="70"/>
+          <TRACK Key="30"/>
+          <TRACK Key="180"/>
+          <TRACK Key="181"/>
+          <TRACK Key="57"/>
+          <TRACK Key="9"/>
+          <TRACK Key="7"/>
+          <TRACK Key="182"/>
+          <TRACK Key="183"/>
+          <TRACK Key="174"/>
+          <TRACK Key="91"/>
+          <TRACK Key="59"/>
+          <TRACK Key="184"/>
+          <TRACK Key="98"/>
+          <TRACK Key="108"/>
+          <TRACK Key="97"/>
+          <TRACK Key="185"/>
+          <TRACK Key="46"/>
+          <TRACK Key="186"/>
+          <TRACK Key="46"/>
+          <TRACK Key="187"/>
+          <TRACK Key="79"/>
+          <TRACK Key="188"/>
+          <TRACK Key="189"/>
+          <TRACK Key="84"/>
+          <TRACK Key="129"/>
+          <TRACK Key="190"/>
+          <TRACK Key="191"/>
+          <TRACK Key="76"/>
+          <TRACK Key="192"/>
+          <TRACK Key="193"/>
+          <TRACK Key="89"/>
+          <TRACK Key="194"/>
+          <TRACK Key="90"/>
+          <TRACK Key="149"/>
+          <TRACK Key="20"/>
+          <TRACK Key="106"/>
+          <TRACK Key="195"/>
+          <TRACK Key="196"/>
+          <TRACK Key="197"/>
+          <TRACK Key="198"/>
+          <TRACK Key="199"/>
+          <TRACK Key="145"/>
+          <TRACK Key="200"/>
+          <TRACK Key="132"/>
+          <TRACK Key="201"/>
+          <TRACK Key="202"/>
+          <TRACK Key="203"/>
+          <TRACK Key="204"/>
+          <TRACK Key="205"/>
+          <TRACK Key="206"/>
+          <TRACK Key="207"/>
+          <TRACK Key="190"/>
+          <TRACK Key="138"/>
+          <TRACK Key="180"/>
+          <TRACK Key="208"/>
+          <TRACK Key="209"/>
+        </NODE>
+        <NODE Name="HISTORY 010" Type="1" KeyType="0" Entries="2">
+          <TRACK Key="210"/>
+          <TRACK Key="173"/>
+        </NODE>
+        <NODE Name="HISTORY 011" Type="1" KeyType="0" Entries="3">
+          <TRACK Key="161"/>
+          <TRACK Key="76"/>
+          <TRACK Key="138"/>
+        </NODE>
+        <NODE Name="HISTORY 012" Type="1" KeyType="0" Entries="2">
+          <TRACK Key="211"/>
+          <TRACK Key="212"/>
+        </NODE>
+        <NODE Name="HISTORY 013" Type="1" KeyType="0" Entries="47">
+          <TRACK Key="213"/>
+          <TRACK Key="129"/>
+          <TRACK Key="214"/>
+          <TRACK Key="215"/>
+          <TRACK Key="77"/>
+          <TRACK Key="59"/>
+          <TRACK Key="216"/>
+          <TRACK Key="91"/>
+          <TRACK Key="92"/>
+          <TRACK Key="217"/>
+          <TRACK Key="218"/>
+          <TRACK Key="219"/>
+          <TRACK Key="220"/>
+          <TRACK Key="198"/>
+          <TRACK Key="221"/>
+          <TRACK Key="222"/>
+          <TRACK Key="223"/>
+          <TRACK Key="89"/>
+          <TRACK Key="194"/>
+          <TRACK Key="224"/>
+          <TRACK Key="225"/>
+          <TRACK Key="226"/>
+          <TRACK Key="227"/>
+          <TRACK Key="228"/>
+          <TRACK Key="229"/>
+          <TRACK Key="230"/>
+          <TRACK Key="106"/>
+          <TRACK Key="46"/>
+          <TRACK Key="6"/>
+          <TRACK Key="99"/>
+          <TRACK Key="188"/>
+          <TRACK Key="231"/>
+          <TRACK Key="232"/>
+          <TRACK Key="233"/>
+          <TRACK Key="234"/>
+          <TRACK Key="235"/>
+          <TRACK Key="195"/>
+          <TRACK Key="84"/>
+          <TRACK Key="236"/>
+          <TRACK Key="237"/>
+          <TRACK Key="132"/>
+          <TRACK Key="238"/>
+          <TRACK Key="134"/>
+          <TRACK Key="239"/>
+          <TRACK Key="240"/>
+          <TRACK Key="59"/>
+          <TRACK Key="123"/>
+        </NODE>
+        <NODE Name="HISTORY 014" Type="1" KeyType="0" Entries="73">
+          <TRACK Key="241"/>
+          <TRACK Key="242"/>
+          <TRACK Key="70"/>
+          <TRACK Key="62"/>
+          <TRACK Key="67"/>
+          <TRACK Key="242"/>
+          <TRACK Key="64"/>
+          <TRACK Key="122"/>
+          <TRACK Key="243"/>
+          <TRACK Key="244"/>
+          <TRACK Key="102"/>
+          <TRACK Key="245"/>
+          <TRACK Key="246"/>
+          <TRACK Key="247"/>
+          <TRACK Key="248"/>
+          <TRACK Key="115"/>
+          <TRACK Key="9"/>
+          <TRACK Key="8"/>
+          <TRACK Key="249"/>
+          <TRACK Key="10"/>
+          <TRACK Key="42"/>
+          <TRACK Key="250"/>
+          <TRACK Key="251"/>
+          <TRACK Key="252"/>
+          <TRACK Key="152"/>
+          <TRACK Key="253"/>
+          <TRACK Key="124"/>
+          <TRACK Key="254"/>
+          <TRACK Key="255"/>
+          <TRACK Key="256"/>
+          <TRACK Key="257"/>
+          <TRACK Key="172"/>
+          <TRACK Key="52"/>
+          <TRACK Key="54"/>
+          <TRACK Key="258"/>
+          <TRACK Key="259"/>
+          <TRACK Key="130"/>
+          <TRACK Key="259"/>
+          <TRACK Key="260"/>
+          <TRACK Key="120"/>
+          <TRACK Key="261"/>
+          <TRACK Key="262"/>
+          <TRACK Key="263"/>
+          <TRACK Key="82"/>
+          <TRACK Key="264"/>
+          <TRACK Key="82"/>
+          <TRACK Key="104"/>
+          <TRACK Key="265"/>
+          <TRACK Key="104"/>
+          <TRACK Key="31"/>
+          <TRACK Key="32"/>
+          <TRACK Key="266"/>
+          <TRACK Key="267"/>
+          <TRACK Key="268"/>
+          <TRACK Key="269"/>
+          <TRACK Key="268"/>
+          <TRACK Key="245"/>
+          <TRACK Key="89"/>
+          <TRACK Key="89"/>
+          <TRACK Key="90"/>
+          <TRACK Key="149"/>
+          <TRACK Key="270"/>
+          <TRACK Key="213"/>
+          <TRACK Key="271"/>
+          <TRACK Key="272"/>
+          <TRACK Key="59"/>
+          <TRACK Key="273"/>
+          <TRACK Key="129"/>
+          <TRACK Key="274"/>
+          <TRACK Key="275"/>
+          <TRACK Key="276"/>
+          <TRACK Key="98"/>
+          <TRACK Key="199"/>
+        </NODE>
+        <NODE Name="HISTORY 015" Type="1" KeyType="0" Entries="70">
+          <TRACK Key="160"/>
+          <TRACK Key="22"/>
+          <TRACK Key="277"/>
+          <TRACK Key="278"/>
+          <TRACK Key="279"/>
+          <TRACK Key="280"/>
+          <TRACK Key="281"/>
+          <TRACK Key="282"/>
+          <TRACK Key="193"/>
+          <TRACK Key="283"/>
+          <TRACK Key="284"/>
+          <TRACK Key="22"/>
+          <TRACK Key="9"/>
+          <TRACK Key="8"/>
+          <TRACK Key="285"/>
+          <TRACK Key="286"/>
+          <TRACK Key="287"/>
+          <TRACK Key="288"/>
+          <TRACK Key="289"/>
+          <TRACK Key="290"/>
+          <TRACK Key="61"/>
+          <TRACK Key="106"/>
+          <TRACK Key="80"/>
+          <TRACK Key="104"/>
+          <TRACK Key="1"/>
+          <TRACK Key="132"/>
+          <TRACK Key="291"/>
+          <TRACK Key="199"/>
+          <TRACK Key="292"/>
+          <TRACK Key="293"/>
+          <TRACK Key="272"/>
+          <TRACK Key="131"/>
+          <TRACK Key="59"/>
+          <TRACK Key="46"/>
+          <TRACK Key="42"/>
+          <TRACK Key="76"/>
+          <TRACK Key="294"/>
+          <TRACK Key="112"/>
+          <TRACK Key="273"/>
+          <TRACK Key="108"/>
+          <TRACK Key="295"/>
+          <TRACK Key="89"/>
+          <TRACK Key="90"/>
+          <TRACK Key="194"/>
+          <TRACK Key="296"/>
+          <TRACK Key="297"/>
+          <TRACK Key="166"/>
+          <TRACK Key="19"/>
+          <TRACK Key="298"/>
+          <TRACK Key="77"/>
+          <TRACK Key="299"/>
+          <TRACK Key="300"/>
+          <TRACK Key="301"/>
+          <TRACK Key="60"/>
+          <TRACK Key="268"/>
+          <TRACK Key="20"/>
+          <TRACK Key="302"/>
+          <TRACK Key="31"/>
+          <TRACK Key="303"/>
+          <TRACK Key="200"/>
+          <TRACK Key="148"/>
+          <TRACK Key="304"/>
+          <TRACK Key="305"/>
+          <TRACK Key="228"/>
+          <TRACK Key="306"/>
+          <TRACK Key="307"/>
+          <TRACK Key="308"/>
+          <TRACK Key="76"/>
+          <TRACK Key="309"/>
+          <TRACK Key="68"/>
+        </NODE>
+        <NODE Name="HISTORY 016" Type="1" KeyType="0" Entries="5">
+          <TRACK Key="310"/>
+          <TRACK Key="311"/>
+          <TRACK Key="312"/>
+          <TRACK Key="313"/>
+          <TRACK Key="312"/>
+        </NODE>
+        <NODE Name="HISTORY 017" Type="1" KeyType="0" Entries="4">
+          <TRACK Key="71"/>
+          <TRACK Key="314"/>
+          <TRACK Key="32"/>
+          <TRACK Key="175"/>
+        </NODE>
+        <NODE Name="HISTORY 018" Type="1" KeyType="0" Entries="3">
+          <TRACK Key="75"/>
+          <TRACK Key="91"/>
+          <TRACK Key="175"/>
+        </NODE>
+        <NODE Name="HISTORY 019" Type="1" KeyType="0" Entries="46">
+          <TRACK Key="70"/>
+          <TRACK Key="67"/>
+          <TRACK Key="164"/>
+          <TRACK Key="315"/>
+          <TRACK Key="316"/>
+          <TRACK Key="317"/>
+          <TRACK Key="282"/>
+          <TRACK Key="10"/>
+          <TRACK Key="42"/>
+          <TRACK Key="210"/>
+          <TRACK Key="59"/>
+          <TRACK Key="115"/>
+          <TRACK Key="40"/>
+          <TRACK Key="128"/>
+          <TRACK Key="78"/>
+          <TRACK Key="318"/>
+          <TRACK Key="271"/>
+          <TRACK Key="319"/>
+          <TRACK Key="320"/>
+          <TRACK Key="321"/>
+          <TRACK Key="182"/>
+          <TRACK Key="76"/>
+          <TRACK Key="322"/>
+          <TRACK Key="46"/>
+          <TRACK Key="79"/>
+          <TRACK Key="80"/>
+          <TRACK Key="83"/>
+          <TRACK Key="156"/>
+          <TRACK Key="234"/>
+          <TRACK Key="77"/>
+          <TRACK Key="151"/>
+          <TRACK Key="129"/>
+          <TRACK Key="323"/>
+          <TRACK Key="324"/>
+          <TRACK Key="325"/>
+          <TRACK Key="89"/>
+          <TRACK Key="90"/>
+          <TRACK Key="143"/>
+          <TRACK Key="96"/>
+          <TRACK Key="20"/>
+          <TRACK Key="287"/>
+          <TRACK Key="60"/>
+          <TRACK Key="326"/>
+          <TRACK Key="327"/>
+          <TRACK Key="49"/>
+          <TRACK Key="328"/>
+        </NODE>
+        <NODE Name="HISTORY 020" Type="1" KeyType="0" Entries="3">
+          <TRACK Key="329"/>
+          <TRACK Key="330"/>
+          <TRACK Key="331"/>
+        </NODE>
+        <NODE Name="HISTORY 021" Type="1" KeyType="0" Entries="2">
+          <TRACK Key="312"/>
+          <TRACK Key="321"/>
+        </NODE>
+        <NODE Name="HISTORY 022" Type="1" KeyType="0" Entries="37">
+          <TRACK Key="70"/>
+          <TRACK Key="317"/>
+          <TRACK Key="59"/>
+          <TRACK Key="46"/>
+          <TRACK Key="114"/>
+          <TRACK Key="115"/>
+          <TRACK Key="92"/>
+          <TRACK Key="121"/>
+          <TRACK Key="332"/>
+          <TRACK Key="231"/>
+          <TRACK Key="333"/>
+          <TRACK Key="127"/>
+          <TRACK Key="79"/>
+          <TRACK Key="80"/>
+          <TRACK Key="1"/>
+          <TRACK Key="81"/>
+          <TRACK Key="82"/>
+          <TRACK Key="334"/>
+          <TRACK Key="206"/>
+          <TRACK Key="201"/>
+          <TRACK Key="132"/>
+          <TRACK Key="335"/>
+          <TRACK Key="245"/>
+          <TRACK Key="302"/>
+          <TRACK Key="89"/>
+          <TRACK Key="90"/>
+          <TRACK Key="295"/>
+          <TRACK Key="112"/>
+          <TRACK Key="336"/>
+          <TRACK Key="213"/>
+          <TRACK Key="129"/>
+          <TRACK Key="214"/>
+          <TRACK Key="337"/>
+          <TRACK Key="338"/>
+          <TRACK Key="199"/>
+          <TRACK Key="140"/>
+          <TRACK Key="339"/>
+        </NODE>
+        <NODE Name="HISTORY 023" Type="1" KeyType="0" Entries="8">
+          <TRACK Key="317"/>
+          <TRACK Key="70"/>
+          <TRACK Key="340"/>
+          <TRACK Key="341"/>
+          <TRACK Key="32"/>
+          <TRACK Key="342"/>
+          <TRACK Key="343"/>
+          <TRACK Key="344"/>
+        </NODE>
+        <NODE Name="HISTORY 024" Type="1" KeyType="0" Entries="5">
+          <TRACK Key="109"/>
+          <TRACK Key="17"/>
+          <TRACK Key="106"/>
+          <TRACK Key="166"/>
+          <TRACK Key="345"/>
+        </NODE>
+      </NODE>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
